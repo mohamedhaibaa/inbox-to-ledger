@@ -1,0 +1,404 @@
+[
+  {
+    "kind": "call_exact",
+    "doc_id": "CC-0031",
+    "value": "950000.00",
+    "question": "How much does Lake Chad Foundation owe for capital call 2 of Ironwood Growth Fund IV?"
+  },
+  {
+    "kind": "call_paraphrase",
+    "doc_id": "CC-0031",
+    "value": "2026-08-11",
+    "question": "By what date does LCF have to send money for its second drawdown in Ironwood Growth Fund?"
+  },
+  {
+    "kind": "call_exact",
+    "doc_id": "CC-0018",
+    "value": "337500.00",
+    "question": "How much does Cassandraton Pension Plan owe for capital call 1 of Bluewater Infrastructure Fund III?"
+  },
+  {
+    "kind": "call_paraphrase",
+    "doc_id": "CC-0018",
+    "value": "2026-06-16",
+    "question": "By what date does CPP have to send money for its first drawdown in Bluewater Infrastructure Fund?"
+  },
+  {
+    "kind": "call_exact",
+    "doc_id": "CC-0043",
+    "value": "150000.00",
+    "question": "How much does East Lydiamouth Endowment owe for capital call 1 of Harbour Capital Fund I?"
+  },
+  {
+    "kind": "call_paraphrase",
+    "doc_id": "CC-0043",
+    "value": "2026-05-30",
+    "question": "By what date does ELE have to send money for its first drawdown in Harbour Capital Fund?"
+  },
+  {
+    "kind": "call_exact",
+    "doc_id": "CC-0034",
+    "value": "437500.00",
+    "question": "How much does Port Colleenhaven Family Office owe for capital call 3 of Granite Infrastructure Fund II?"
+  },
+  {
+    "kind": "call_paraphrase",
+    "doc_id": "CC-0034",
+    "value": "2026-06-24",
+    "question": "By what date does PCFO have to send money for its third drawdown in Granite Infrastructure Fund?"
+  },
+  {
+    "kind": "call_exact",
+    "doc_id": "CC-0058",
+    "value": "350000.00",
+    "question": "How much does Juliechester Foundation owe for capital call 1 of Ironwood Growth Fund IV?"
+  },
+  {
+    "kind": "call_paraphrase",
+    "doc_id": "CC-0058",
+    "value": "2026-04-14",
+    "question": "By what date does JF have to send money for its first drawdown in Ironwood Growth Fund?"
+  },
+  {
+    "kind": "call_exact",
+    "doc_id": "CC-0023",
+    "value": "2000000.00",
+    "question": "How much does Jasonfort Endowment owe for capital call 1 of Atlantic Capital Fund I?"
+  },
+  {
+    "kind": "call_paraphrase",
+    "doc_id": "CC-0023",
+    "value": "2026-10-06",
+    "question": "By what date does JE have to send money for its first drawdown in Atlantic Capital Fund?"
+  },
+  {
+    "kind": "call_exact",
+    "doc_id": "CC-0010",
+    "value": "300000.00",
+    "question": "How much does Lake Chad Foundation owe for capital call 1 of Lakeshore Growth Fund IV?"
+  },
+  {
+    "kind": "call_paraphrase",
+    "doc_id": "CC-0010",
+    "value": "2026-09-08",
+    "question": "By what date does LCF have to send money for its first drawdown in Lakeshore Growth Fund?"
+  },
+  {
+    "kind": "call_exact",
+    "doc_id": "CC-0025",
+    "value": "137500.00",
+    "question": "How much does Lake Debra Pension Plan owe for capital call 1 of Harbour Capital Fund I?"
+  },
+  {
+    "kind": "call_paraphrase",
+    "doc_id": "CC-0025",
+    "value": "2026-07-03",
+    "question": "By what date does LDPP have to send money for its first drawdown in Harbour Capital Fund?"
+  },
+  {
+    "kind": "call_exact",
+    "doc_id": "CC-0001",
+    "value": "475000.00",
+    "question": "How much does Lisatown Endowment owe for capital call 1 of Bluewater Infrastructure Fund III?"
+  },
+  {
+    "kind": "call_paraphrase",
+    "doc_id": "CC-0001",
+    "value": "2026-06-04",
+    "question": "By what date does LE have to send money for its first drawdown in Bluewater Infrastructure Fund?"
+  },
+  {
+    "kind": "call_exact",
+    "doc_id": "CC-0024",
+    "value": "325000.00",
+    "question": "How much does North Judithbury Insurance Co. owe for capital call 1 of Lakeshore Growth Fund IV?"
+  },
+  {
+    "kind": "call_paraphrase",
+    "doc_id": "CC-0024",
+    "value": "2026-05-07",
+    "question": "By what date does NJIC have to send money for its first drawdown in Lakeshore Growth Fund?"
+  },
+  {
+    "kind": "call_exact",
+    "doc_id": "CC-0060",
+    "value": "475000.00",
+    "question": "How much does Coxberg Family Office owe for capital call 2 of Granite Infrastructure Fund II?"
+  },
+  {
+    "kind": "call_paraphrase",
+    "doc_id": "CC-0060",
+    "value": "2026-10-03",
+    "question": "By what date does CFO have to send money for its second drawdown in Granite Infrastructure Fund?"
+  },
+  {
+    "kind": "call_exact",
+    "doc_id": "CC-0059",
+    "value": "675000.00",
+    "question": "How much does Ramirezstad Family Office owe for capital call 1 of Bluewater Infrastructure Fund III?"
+  },
+  {
+    "kind": "call_paraphrase",
+    "doc_id": "CC-0059",
+    "value": "2026-08-23",
+    "question": "By what date does RFO have to send money for its first drawdown in Bluewater Infrastructure Fund?"
+  },
+  {
+    "kind": "call_exact",
+    "doc_id": "CC-0042",
+    "value": "475000.00",
+    "question": "How much does Lisatown Endowment owe for capital call 2 of Bluewater Infrastructure Fund III?"
+  },
+  {
+    "kind": "call_paraphrase",
+    "doc_id": "CC-0042",
+    "value": "2026-10-25",
+    "question": "By what date does LE have to send money for its second drawdown in Bluewater Infrastructure Fund?"
+  },
+  {
+    "kind": "call_exact",
+    "doc_id": "CC-0030",
+    "value": "150000.00",
+    "question": "How much does Lake Chad Foundation owe for capital call 2 of Lakeshore Growth Fund IV?"
+  },
+  {
+    "kind": "call_paraphrase",
+    "doc_id": "CC-0030",
+    "value": "2026-08-29",
+    "question": "By what date does LCF have to send money for its second drawdown in Lakeshore Growth Fund?"
+  },
+  {
+    "kind": "call_exact",
+    "doc_id": "CC-0045",
+    "value": "950000.00",
+    "question": "How much does Coxberg Family Office owe for capital call 1 of Granite Infrastructure Fund II?"
+  },
+  {
+    "kind": "call_paraphrase",
+    "doc_id": "CC-0045",
+    "value": "2026-10-29",
+    "question": "By what date does CFO have to send money for its first drawdown in Granite Infrastructure Fund?"
+  },
+  {
+    "kind": "distribution",
+    "doc_id": "DN-0031",
+    "value": "2026-05-21",
+    "question": "On what date will Granite Infrastructure Fund II pay out to Robinsonshire Pension Plan?"
+  },
+  {
+    "kind": "distribution",
+    "doc_id": "DN-0011",
+    "value": "2026-07-02",
+    "question": "On what date will Summit Ventures Fund IV pay out to Cassandraton Pension Plan?"
+  },
+  {
+    "kind": "distribution",
+    "doc_id": "DN-0028",
+    "value": "2026-09-12",
+    "question": "On what date will Granite Infrastructure Fund II pay out to East Courtneychester Endowment?"
+  },
+  {
+    "kind": "distribution",
+    "doc_id": "DN-0001",
+    "value": "2026-07-29",
+    "question": "On what date will Ironwood Growth Fund IV pay out to South Noah Pension Plan?"
+  },
+  {
+    "kind": "distribution",
+    "doc_id": "DN-0033",
+    "value": "2026-05-10",
+    "question": "On what date will Bluewater Infrastructure Fund III pay out to Herrerafurt Foundation?"
+  },
+  {
+    "kind": "distribution",
+    "doc_id": "DN-0040",
+    "value": "2026-03-14",
+    "question": "On what date will Bluewater Infrastructure Fund III pay out to North Noahstad Endowment?"
+  },
+  {
+    "kind": "distribution",
+    "doc_id": "DN-0006",
+    "value": "2026-04-10",
+    "question": "On what date will Harbour Capital Fund I pay out to Jacquelineland Endowment?"
+  },
+  {
+    "kind": "distribution",
+    "doc_id": "DN-0023",
+    "value": "2026-07-30",
+    "question": "On what date will Summit Ventures Fund IV pay out to East Nathaniel Pension Plan?"
+  },
+  {
+    "kind": "distribution",
+    "doc_id": "DN-0020",
+    "value": "2026-05-07",
+    "question": "On what date will Harbour Capital Fund I pay out to Lake Chad Foundation?"
+  },
+  {
+    "kind": "distribution",
+    "doc_id": "DN-0008",
+    "value": "2026-06-17",
+    "question": "On what date will Harbour Capital Fund I pay out to Coxberg Family Office?"
+  },
+  {
+    "kind": "prose_agm",
+    "doc_id": "OT-0001",
+    "value": "Lake Meganhaven",
+    "question": "In which city will Lakeshore Growth Fund IV hold its annual general meeting?"
+  },
+  {
+    "kind": "prose_marketing",
+    "doc_id": "OT-0003",
+    "value": "$3,000,000",
+    "question": "What is the minimum commitment to invest in the Jackson Opportunities Fund?"
+  },
+  {
+    "kind": "prose_agm",
+    "doc_id": "OT-0008",
+    "value": "Danaborough",
+    "question": "In which city will Maple Growth Fund I hold its annual general meeting?"
+  },
+  {
+    "kind": "prose_marketing",
+    "doc_id": "OT-0009",
+    "value": "$5,000,000",
+    "question": "What is the minimum commitment to invest in the Shaffer Opportunities Fund?"
+  },
+  {
+    "kind": "prose_marketing",
+    "doc_id": "OT-0012",
+    "value": "$3,000,000",
+    "question": "What is the minimum commitment to invest in the Singh Opportunities Fund?"
+  },
+  {
+    "kind": "prose_marketing",
+    "doc_id": "OT-0013",
+    "value": "$2,000,000",
+    "question": "What is the minimum commitment to invest in the Perez Opportunities Fund?"
+  },
+  {
+    "kind": "prose_agm",
+    "doc_id": "OT-0017",
+    "value": "North Kristyfort",
+    "question": "In which city will Northern Credit Fund I hold its annual general meeting?"
+  },
+  {
+    "kind": "prose_marketing",
+    "doc_id": "OT-0020",
+    "value": "$3,000,000",
+    "question": "What is the minimum commitment to invest in the Green Opportunities Fund?"
+  },
+  {
+    "kind": "prose_quarterly",
+    "doc_id": "OT-0004",
+    "value": "48%",
+    "question": "According to its Q4 2026 report, what share of commitments has Maple Growth Fund I called?"
+  },
+  {
+    "kind": "prose_quarterly",
+    "doc_id": "OT-0005",
+    "value": "55%",
+    "question": "According to its Q4 2026 report, what share of commitments has Northern Credit Fund I called?"
+  },
+  {
+    "kind": "prose_quarterly",
+    "doc_id": "OT-0006",
+    "value": "60%",
+    "question": "According to its Q3 2026 report, what share of commitments has Ironwood Growth Fund IV called?"
+  },
+  {
+    "kind": "prose_quarterly",
+    "doc_id": "OT-0007",
+    "value": "44%",
+    "question": "According to its Q3 2026 report, what share of commitments has Harbour Capital Fund I called?"
+  },
+  {
+    "kind": "conflict",
+    "doc_id": [
+      "OT-0010",
+      "OT-0016"
+    ],
+    "value": [
+      "76%",
+      "48%"
+    ],
+    "question": "According to its Q2 2026 report, what share of commitments has Maple Growth Fund I called?"
+  },
+  {
+    "kind": "prose_quarterly",
+    "doc_id": "OT-0014",
+    "value": "77%",
+    "question": "According to its Q4 2026 report, what share of commitments has Summit Ventures Fund IV called?"
+  },
+  {
+    "kind": "prose_quarterly",
+    "doc_id": "OT-0018",
+    "value": "73%",
+    "question": "According to its Q3 2026 report, what share of commitments has Lakeshore Growth Fund IV called?"
+  },
+  {
+    "kind": "prose_quarterly",
+    "doc_id": "OT-0019",
+    "value": "25%",
+    "question": "According to its Q1 2026 report, what share of commitments has Harbour Capital Fund I called?"
+  },
+  {
+    "kind": "unanswerable",
+    "doc_id": null,
+    "value": null,
+    "question": "What management fee percentage does Lakeshore Growth Fund IV charge?"
+  },
+  {
+    "kind": "unanswerable",
+    "doc_id": null,
+    "value": null,
+    "question": "Who is the chief financial officer of Lakeshore Growth Fund IV?"
+  },
+  {
+    "kind": "unanswerable",
+    "doc_id": null,
+    "value": null,
+    "question": "What management fee percentage does Harbour Capital Fund I charge?"
+  },
+  {
+    "kind": "unanswerable",
+    "doc_id": null,
+    "value": null,
+    "question": "Who is the chief financial officer of Harbour Capital Fund I?"
+  },
+  {
+    "kind": "unanswerable",
+    "doc_id": null,
+    "value": null,
+    "question": "What management fee percentage does Atlantic Capital Fund I charge?"
+  },
+  {
+    "kind": "unanswerable",
+    "doc_id": null,
+    "value": null,
+    "question": "Who is the chief financial officer of Atlantic Capital Fund I?"
+  },
+  {
+    "kind": "unanswerable",
+    "doc_id": null,
+    "value": null,
+    "question": "What management fee percentage does Ironwood Growth Fund IV charge?"
+  },
+  {
+    "kind": "unanswerable",
+    "doc_id": null,
+    "value": null,
+    "question": "Who is the chief financial officer of Ironwood Growth Fund IV?"
+  },
+  {
+    "kind": "unanswerable",
+    "doc_id": null,
+    "value": null,
+    "question": "What management fee percentage does Bluewater Infrastructure Fund III charge?"
+  },
+  {
+    "kind": "unanswerable",
+    "doc_id": null,
+    "value": null,
+    "question": "Who is the chief financial officer of Bluewater Infrastructure Fund III?"
+  }
+]

@@ -1,0 +1,128 @@
+{
+  "keyword": {
+    "hit@1": 44,
+    "hit@4": 56,
+    "questions": 56,
+    "per_kind": {
+      "call_exact": [
+        13,
+        15,
+        15
+      ],
+      "call_paraphrase": [
+        9,
+        15,
+        15
+      ],
+      "distribution": [
+        7,
+        10,
+        10
+      ],
+      "prose_agm": [
+        3,
+        3,
+        3
+      ],
+      "prose_marketing": [
+        5,
+        5,
+        5
+      ],
+      "prose_quarterly": [
+        6,
+        7,
+        7
+      ],
+      "conflict": [
+        1,
+        1,
+        1
+      ]
+    }
+  },
+  "embedding": {
+    "hit@1": 40,
+    "hit@4": 52,
+    "questions": 56,
+    "per_kind": {
+      "call_exact": [
+        10,
+        15,
+        15
+      ],
+      "call_paraphrase": [
+        6,
+        11,
+        15
+      ],
+      "distribution": [
+        10,
+        10,
+        10
+      ],
+      "prose_agm": [
+        3,
+        3,
+        3
+      ],
+      "prose_marketing": [
+        5,
+        5,
+        5
+      ],
+      "prose_quarterly": [
+        5,
+        7,
+        7
+      ],
+      "conflict": [
+        1,
+        1,
+        1
+      ]
+    }
+  },
+  "hybrid": {
+    "hit@1": 45,
+    "hit@4": 55,
+    "questions": 56,
+    "per_kind": {
+      "call_exact": [
+        12,
+        15,
+        15
+      ],
+      "call_paraphrase": [
+        9,
+        14,
+        15
+      ],
+      "distribution": [
+        9,
+        10,
+        10
+      ],
+      "prose_agm": [
+        3,
+        3,
+        3
+      ],
+      "prose_marketing": [
+        5,
+        5,
+        5
+      ],
+      "prose_quarterly": [
+        6,
+        7,
+        7
+      ],
+      "conflict": [
+        1,
+        1,
+        1
+      ]
+    }
+  }
+}

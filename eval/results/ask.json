@@ -1,0 +1,55 @@
+{
+  "questions": 66,
+  "outcomes": {
+    "correct": 65,
+    "missed": 1
+  },
+  "per_kind": {
+    "call_exact": {
+      "correct": 15
+    },
+    "call_paraphrase": {
+      "correct": 15
+    },
+    "distribution": {
+      "correct": 10
+    },
+    "prose_agm": {
+      "correct": 3
+    },
+    "prose_marketing": {
+      "correct": 5
+    },
+    "prose_quarterly": {
+      "correct": 7
+    },
+    "conflict": {
+      "missed": 1
+    },
+    "unanswerable": {
+      "correct": 10
+    }
+  },
+  "problems": [
+    {
+      "kind": "conflict",
+      "doc_id": [
+        "OT-0010",
+        "OT-0016"
+      ],
+      "value": [
+        "76%",
+        "48%"
+      ],
+      "question": "According to its Q2 2026 report, what share of commitments has Maple Growth Fund I called?",
+      "answer": "I can't find that in the documents.",
+      "citations": [],
+      "retrieved": [
+        "OT-0016",
+        "OT-0010",
+        "DN-0004",
+        "DN-0012"
+      ]
+    }
+  ]
+}
