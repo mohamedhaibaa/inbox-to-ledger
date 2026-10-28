@@ -13,7 +13,10 @@ class CapitalCall(BaseModel):
     currency: str = "CAD"
     notice_date: date | None = None
     due_date: date
-    reference: str | None = Field(None, description="Payment reference to quote on the wire")
+    reference: str | None = Field(None, description=(
+        "The payment reference code the investor must quote on the wire, copied exactly. "
+        "Only the code itself: leave out labels such as 'Ref:' and any words, brackets or "
+        "punctuation after it. Example: in 'Our Ref: XYZ 123 (see note 4)', the reference is 'XYZ 123'."))
 
 
 class Distribution(BaseModel):
