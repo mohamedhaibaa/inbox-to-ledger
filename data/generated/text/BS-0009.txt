@@ -1,0 +1,34 @@
+ROYAL BANK OF CANADA - Account 70217-662275
+Bluewater Infrastructure Fund III Statement: Jan 1 - Dec 31, 2026
+
+
+Date  Description                                In          Out
+------------------------------------------------------------------------------------
+Jan 22 WIRE OUT AIC DISTRIBUTION                       682,500.00
+Jan 27 MANAGEMENT FEE Q3                                26,665.00
+
+Feb 07 WIRE IN HF CAP CALL 1               437,500.00
+Mar 02 WIRE IN HF CAP CALL 2               437,475.00
+Mar 14 WIRE OUT NNE DISTRIBUTION                       100,000.00
+Mar 23 WIRE OUT RFO DISTRIBUTION                       135,000.00
+
+Apr 01 WIRE IN WMFO CAP CALL 1             495,000.00
+Apr 14 WIRE IN LE CAP CALL 3              1,424,985.00
+May 10 WIRE OUT HF DISTRIBUTION                       1,225,000.00
+May 17 AUDIT FEES                                       13,169.00
+May 29 WIRE IN AIC CAP CALL 1              435,750.00
+
+Jun 15 WIRE IN CPP CAP CALL 1              246,375.00
+Jun 29 WIRE IN NNE CAP CALL 2              124,975.00
+Jul 06 WIRE IN NNE CAP CALL 1              499,975.00
+Jul 11 WIRE OUT INVESTMENT JOHNSON, SAWYER AND        1,296,284.00
+
+Jul 21 WIRE OUT AIC DISTRIBUTION                       630,000.00
+Jul 28 WIRE IN NNE CAP CALL 3              125,000.00
+Jul 30 BANK INTEREST                          100.00
+Aug 21 WIRE IN RFO CAP CALL 1              675,000.00
+
+Sep 06 WIRE OUT INVESTMENT CASTILLO-COLLINS           1,700,444.00
+Oct 11 WIRE OUT INVESTMENT WALTERS LLC                2,177,896.00
+Oct 13 WIRE IN HF CAP CALL 3               630,000.00
+Oct 23 WIRE IN LE CAP CALL 2               475,000.00

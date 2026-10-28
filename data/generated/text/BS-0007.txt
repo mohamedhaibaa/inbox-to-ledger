@@ -1,0 +1,27 @@
+TD BANK - Account 54118-207175
+Granite Infrastructure Fund II Statement: Jan 1 - Dec 31, 2026
+
+
+Date  Description                                In          Out
+------------------------------------------------------------------------------------
+Jan 02 BANK INTEREST                          320.00
+Feb 10 WIRE IN NRIC CAP CALL 1             276,750.00
+
+Mar 05 WIRE IN RPP CAP CALL 1             1,400,000.00
+Mar 19 WIRE IN TF CAP CALL 1               824,975.00
+Apr 15 WIRE OUT JF DISTRIBUTION                        150,000.00
+May 02 WIRE IN JF CAP CALL 1              1,125,000.00
+
+May 21 WIRE OUT RPP DISTRIBUTION                       910,000.00
+Jun 20 WIRE IN PCFO CAP CALL 3             437,500.00
+Aug 19 WIRE IN PCFO CAP CALL 1             380,625.00
+Aug 20 AUDIT FEES                                       17,341.00
+Aug 31 MANAGEMENT FEE Q1                                68,872.00
+
+Sep 12 WIRE OUT ECE DISTRIBUTION                       472,500.00
+Sep 30 MANAGEMENT FEE Q1                                61,040.00
+Oct 02 WIRE OUT INVESTMENT BARNES LLC                 2,609,613.00
+Oct 03 WIRE IN COXBERG FAMILY OFFICE CALL 2 475,000.00
+
+Oct 24 WIRE IN CFO CAP CALL 1              950,000.00
+Oct 29 WIRE IN PCFO CAP CALL 2             874,985.00

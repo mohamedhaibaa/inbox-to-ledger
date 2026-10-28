@@ -1,0 +1,45 @@
+CIBC - Account 21395-719176
+Harbour Capital Fund I Statement: Jan 1 - Dec 31, 2026
+
+
+Date  Description                                In          Out
+------------------------------------------------------------------------------------
+Jan 21 WIRE OUT RPP DISTRIBUTION                       577,500.00
+Feb 03 WIRE IN CFO CAP CALL 2              937,500.00
+
+Feb 03 WIRE OUT ELE DISTRIBUTION                       165,000.00
+Feb 07 WIRE OUT LDPP DISTRIBUTION                      302,500.00
+Mar 12 AUDIT FEES                                       19,664.00
+Mar 12 AUDIT FEES                                       13,293.00
+
+Mar 24 WIRE OUT INVESTMENT DAVIS-JOSEPH               1,438,316.00
+Mar 31 WIRE IN COXBERG FAMILY OFFICE CALL 1 1,250,000.00
+Apr 03 WIRE OUT LNE DISTRIBUTION                       142,500.00
+Apr 10 WIRE OUT JE DISTRIBUTION                        625,000.00
+May 04 WIRE IN JE CAP CALL 1               625,000.00
+
+May 07 WIRE OUT LCF DISTRIBUTION                       240,000.00
+May 23 WIRE OUT ELE DISTRIBUTION                       195,000.00
+May 30 WIRE IN ELE CAP CALL 1               78,000.00
+Jun 03 WIRE IN RPP CAP CALL 1             1,650,000.00
+
+Jun 05 MANAGEMENT FEE Q2                                63,874.00
+Jun 15 WIRE OUT LDPP DISTRIBUTION                       55,000.00
+Jun 17 WIRE IN WDF CAP CALL 1              249,975.00
+Jun 17 WIRE OUT CFO DISTRIBUTION                       875,000.00
+
+Jul 02 WIRE IN LDPP CAP CALL 1             137,500.00
+Jul 05 WIRE OUT AIC DISTRIBUTION                       427,500.00
+Jul 09 WIRE IN LDPP CAP CALL 3             412,475.00
+Jul 23 WIRE OUT INVESTMENT WHITE, PERKINS AND F        894,790.00
+Jul 29 WIRE OUT LMIC DISTRIBUTION                       52,500.00
+
+Aug 08 AUDIT FEES                                       12,885.00
+Aug 15 WIRE OUT INVESTMENT MCCOY PLC                  2,145,695.00
+Aug 16 WIRE OUT LRFO DISTRIBUTION                      525,000.00
+Aug 25 WIRE OUT ELE DISTRIBUTION                       195,000.00
+
+Aug 29 WIRE OUT LNE DISTRIBUTION                       522,500.00
+Sep 01 WIRE OUT AIC DISTRIBUTION                        95,000.00
+Nov 02 WIRE OUT RPP DISTRIBUTION                       577,500.00
+Nov 26 MANAGEMENT FEE Q2                                66,931.00

@@ -1,0 +1,24 @@
+ROYAL BANK OF CANADA - Account 82357-407419
+Ironwood Growth Fund IV Statement: Jan 1 - Dec 31, 2026
+
+
+Date  Description                                In          Out
+------------------------------------------------------------------------------------
+Jan 12 WIRE IN NRIC CAP CALL 1            1,450,000.00
+Feb 01 WIRE OUT INVESTMENT CHANG LLC                  1,918,526.00
+
+Mar 17 WIRE OUT NRIC DISTRIBUTION                      725,000.00
+Apr 11 WIRE IN JF CAP CALL 1               349,975.00
+Apr 18 WIRE OUT INVESTMENT THOMAS-DANIELS             2,698,520.00
+May 02 WIRE IN NSE CAP CALL 1             1,425,000.00
+
+May 11 WIRE OUT JF DISTRIBUTION                         52,500.00
+May 16 WIRE IN LCF CAP CALL 1              474,985.00
+May 28 WIRE IN NSE CAP CALL 2             1,424,975.00
+Jun 25 BANK INTEREST                          228.00
+Jul 08 MANAGEMENT FEE Q3                                35,671.00
+
+Jul 29 WIRE OUT SNPP DISTRIBUTION                      180,000.00
+Jul 31 AUDIT FEES                                        5,658.00
+Aug 08 WIRE IN LCF CAP CALL 2              949,985.00
+Sep 29 WIRE IN NJFO CAP CALL 1            1,228,500.00

@@ -1,0 +1,17 @@
+ROYAL BANK OF CANADA - Account 22280-329258
+Northern Credit Fund I Statement: Jan 1 - Dec 31, 2026
+
+
+Date  Description                                In          Out
+------------------------------------------------------------------------------------
+Feb 18 WIRE IN ECE CAP CALL 2              187,475.00
+May 13 BANK INTEREST                          742.00
+
+May 16 BANK INTEREST                          136.00
+May 19 AUDIT FEES                                       10,949.00
+Jun 04 WIRE OUT EJE DISTRIBUTION                       450,000.00
+Jun 30 WIRE IN EJFO CAP CALL 2             974,985.00
+
+Jul 22 WIRE IN ECE CAP CALL 1              187,500.00
+Sep 21 WIRE OUT INVESTMENT HALE AND SONS              2,750,658.00
+Oct 19 WIRE IN EJFO CAP CALL 1             974,975.00

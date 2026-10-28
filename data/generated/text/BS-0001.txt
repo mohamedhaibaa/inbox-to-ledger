@@ -1,0 +1,21 @@
+SCOTIABANK - Account 42098-334053
+Maple Growth Fund I Statement: Jan 1 - Dec 31, 2026
+
+
+Date  Description                                In          Out
+------------------------------------------------------------------------------------
+Feb 01 AUDIT FEES                                        9,295.00
+Mar 19 WIRE OUT INVESTMENT DAVIS GROUP                2,730,635.00
+
+Mar 24 WIRE OUT TF DISTRIBUTION                        350,000.00
+Apr 19 BANK INTEREST                          307.00
+Apr 29 WIRE IN TF CAP CALL 1              1,000,000.00
+Jun 16 AUDIT FEES                                       24,216.00
+
+Jun 30 WIRE IN CFO CAP CALL 1              125,000.00
+Sep 22 AUDIT FEES                                       24,115.00
+Oct 20 WIRE IN TF CAP CALL 2               125,000.00
+Oct 20 WIRE OUT LDPP DISTRIBUTION                      455,000.00
+Nov 02 WIRE OUT LE DISTRIBUTION                        262,500.00
+
+Nov 06 WIRE IN LE CAP CALL 1               524,985.00

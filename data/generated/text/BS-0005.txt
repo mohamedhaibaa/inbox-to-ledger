@@ -1,0 +1,21 @@
+TD BANK - Account 68878-717889
+Summit Ventures Fund IV Statement: Jan 1 - Dec 31, 2026
+
+
+Date  Description                                In          Out
+------------------------------------------------------------------------------------
+Jan 08 AUDIT FEES                                        9,253.00
+Jan 19 WIRE IN CASSANDRATON PENSION P CALL 1 650,000.00
+
+Jan 24 AUDIT FEES                                       14,602.00
+Mar 25 MANAGEMENT FEE Q3                                48,229.00
+Mar 31 WIRE IN ENPP CAP CALL 1             850,000.00
+Apr 28 WIRE OUT INVESTMENT RILEY-BRYANT               1,402,535.00
+
+May 19 WIRE IN PJE CAP CALL 1              925,000.00
+Jul 02 WIRE OUT CPP DISTRIBUTION                       455,000.00
+Jul 15 MANAGEMENT FEE Q1                                63,596.00
+Jul 27 AUDIT FEES                                        9,578.00
+Jul 30 WIRE OUT ENPP DISTRIBUTION                      340,000.00
+
+Sep 11 MANAGEMENT FEE Q4                                63,025.00

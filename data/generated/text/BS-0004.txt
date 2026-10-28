@@ -1,0 +1,21 @@
+CIBC - Account 36062-850800
+Atlantic Capital Fund I Statement: Jan 1 - Dec 31, 2026
+
+
+Date  Description                                In          Out
+------------------------------------------------------------------------------------
+Jan 23 WIRE OUT INVESTMENT LYNCH-JONES                1,042,008.00
+Apr 17 WIRE IN SAFO CAP CALL 1              87,500.00
+
+May 12 WIRE OUT CPP DISTRIBUTION                       455,000.00
+May 15 BANK INTEREST                          215.00
+May 16 MANAGEMENT FEE Q2                                24,366.00
+Jun 09 MANAGEMENT FEE Q2                                33,223.00
+
+Jun 23 MANAGEMENT FEE Q4                                20,756.00
+Jun 29 WIRE OUT SPFO DISTRIBUTION                      400,000.00
+Aug 17 AUDIT FEES                                       14,501.00
+Oct 06 WIRE IN JE CAP CALL 1              1,999,985.00
+Oct 12 WIRE OUT NKFO DISTRIBUTION                      475,000.00
+
+Nov 12 WIRE IN EJFO CAP CALL 1            1,425,000.00

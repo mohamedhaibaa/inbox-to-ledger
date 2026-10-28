@@ -1,0 +1,17 @@
+TD BANK - Account 65392-456778
+Cedar Infrastructure Fund I Statement: Jan 1 - Dec 31, 2026
+
+
+Date  Description                                In          Out
+------------------------------------------------------------------------------------
+Jan 01 BANK INTEREST                          237.00
+Feb 15 MANAGEMENT FEE Q1                                37,312.00
+
+Jun 08 AUDIT FEES                                        6,128.00
+Jun 18 MANAGEMENT FEE Q3                                43,864.00
+Jul 03 WIRE OUT NJIC DISTRIBUTION                      652,500.00
+Aug 17 BANK INTEREST                          325.00
+
+Sep 01 AUDIT FEES                                        7,748.00
+Sep 16 AUDIT FEES                                       13,132.00
+Sep 28 WIRE OUT LRFO DISTRIBUTION                     1,007,500.00

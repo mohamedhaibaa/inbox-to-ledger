@@ -1,0 +1,22 @@
+ROYAL BANK OF CANADA - Account 57052-988662
+Lakeshore Growth Fund IV Statement: Jan 1 - Dec 31, 2026
+
+
+Date  Description                                In          Out
+------------------------------------------------------------------------------------
+Feb 13 MANAGEMENT FEE Q2                                40,425.00
+Feb 20 MANAGEMENT FEE Q4                                37,614.00
+
+Mar 29 WIRE IN PKFO CAP CALL 1             487,500.00
+Apr 20 WIRE OUT WE DISTRIBUTION                       1,050,000.00
+May 04 WIRE IN NJIC CAP CALL 1             324,975.00
+Jul 13 WIRE OUT PKFO DISTRIBUTION                      682,500.00
+
+Jul 17 WIRE IN JE CAP CALL 1               499,985.00
+Aug 08 WIRE IN WMFO CAP CALL 1             712,500.00
+Aug 23 WIRE OUT INVESTMENT MARTIN-PETERSON            1,714,623.00
+Aug 27 AUDIT FEES                                       20,266.00
+Sep 04 AUDIT FEES                                        5,408.00
+
+Sep 12 WIRE IN LCF CAP CALL 1              300,000.00
+Sep 22 BANK INTEREST                          347.00
