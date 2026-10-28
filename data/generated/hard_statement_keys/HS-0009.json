@@ -1,0 +1,81 @@
+{
+  "doc_id": "HS-0009",
+  "fund_id": "FND-009",
+  "period_end": "2026-12-31",
+  "lines": 67,
+  "truth": {
+    "CC-0001": "overpaid",
+    "CC-0004": "paid_less_fee",
+    "CC-0007": "split_paid",
+    "CC-0009": "unpaid",
+    "CC-0017": "split_paid",
+    "CC-0018": "paid",
+    "CC-0019": "paid",
+    "CC-0027": "unpaid",
+    "CC-0029": "split_paid",
+    "CC-0042": "partial",
+    "CC-0050": "partial",
+    "CC-0053": "partial",
+    "CC-0059": "partial",
+    "DN-0019": "amount_mismatch",
+    "DN-0021": "paid",
+    "DN-0033": "paid",
+    "DN-0034": "paid",
+    "DN-0040": "paid"
+  },
+  "challenges": [
+    {
+      "doc_id": "CC-0001",
+      "challenge": "overpaid"
+    },
+    {
+      "doc_id": "CC-0004",
+      "challenge": "fee_at_tolerance"
+    },
+    {
+      "doc_id": "CC-0007",
+      "challenge": "split_payment"
+    },
+    {
+      "doc_id": "CC-0009",
+      "challenge": "unknown_payer"
+    },
+    {
+      "doc_id": "CC-0017",
+      "challenge": "split_payment"
+    },
+    {
+      "doc_id": "CC-0018",
+      "challenge": "paid_on_due_date"
+    },
+    {
+      "doc_id": "CC-0019",
+      "challenge": "duplicate_wire"
+    },
+    {
+      "doc_id": "CC-0027",
+      "challenge": "unknown_payer"
+    },
+    {
+      "doc_id": "CC-0029",
+      "challenge": "split_payment"
+    },
+    {
+      "doc_id": "CC-0042",
+      "challenge": "late_and_short"
+    },
+    {
+      "doc_id": "CC-0050",
+      "challenge": "late_and_short"
+    },
+    {
+      "doc_id": "CC-0053",
+      "challenge": "fee_over_tolerance"
+    },
+    {
+      "doc_id": "CC-0059",
+      "challenge": "late_and_short"
+    }
+  ],
+  "expected_unmatched_lines": 7
+}

@@ -1,0 +1,54 @@
+{
+  "doc_id": "HS-0010",
+  "fund_id": "FND-010",
+  "period_end": "2026-06-30",
+  "lines": 13,
+  "truth": {
+    "CC-0011": "paid",
+    "CC-0012": "paid",
+    "CC-0020": "paid",
+    "CC-0031": "not_due",
+    "CC-0037": "paid",
+    "CC-0054": "not_due",
+    "CC-0055": "paid",
+    "CC-0058": "paid",
+    "DN-0001": "not_due",
+    "DN-0003": "paid",
+    "DN-0005": "paid"
+  },
+  "challenges": [
+    {
+      "doc_id": "CC-0011",
+      "challenge": "paid"
+    },
+    {
+      "doc_id": "CC-0012",
+      "challenge": "paid"
+    },
+    {
+      "doc_id": "CC-0020",
+      "challenge": "paid"
+    },
+    {
+      "doc_id": "CC-0031",
+      "challenge": "paid"
+    },
+    {
+      "doc_id": "CC-0037",
+      "challenge": "paid"
+    },
+    {
+      "doc_id": "CC-0054",
+      "challenge": "paid"
+    },
+    {
+      "doc_id": "CC-0055",
+      "challenge": "paid"
+    },
+    {
+      "doc_id": "CC-0058",
+      "challenge": "paid"
+    }
+  ],
+  "expected_unmatched_lines": 0
+}

@@ -1,0 +1,33 @@
+{
+  "doc_id": "HS-0005",
+  "fund_id": "FND-005",
+  "period_end": "2026-12-31",
+  "lines": 12,
+  "truth": {
+    "CC-0013": "wrong_reference",
+    "CC-0015": "paid",
+    "CC-0032": "paid",
+    "CC-0048": "paid_less_fee",
+    "DN-0011": "amount_mismatch",
+    "DN-0023": "paid"
+  },
+  "challenges": [
+    {
+      "doc_id": "CC-0013",
+      "challenge": "wrong_call_number"
+    },
+    {
+      "doc_id": "CC-0015",
+      "challenge": "duplicate_wire"
+    },
+    {
+      "doc_id": "CC-0032",
+      "challenge": "paid_on_due_date"
+    },
+    {
+      "doc_id": "CC-0048",
+      "challenge": "fee_at_tolerance"
+    }
+  ],
+  "expected_unmatched_lines": 3
+}

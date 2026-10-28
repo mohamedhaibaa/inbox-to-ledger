@@ -1,0 +1,215 @@
+{
+  "lines_read": 197,
+  "lines_total": 197,
+  "outcomes": {
+    "flagged": 22,
+    "correct": 78
+  },
+  "per_truth": {
+    "overpaid": {
+      "correct": 5
+    },
+    "paid": {
+      "correct": 48
+    },
+    "partial": {
+      "correct": 11
+    },
+    "amount_mismatch": {
+      "flagged": 9
+    },
+    "paid_less_fee": {
+      "correct": 6
+    },
+    "unpaid": {
+      "correct": 5
+    },
+    "wrong_reference": {
+      "flagged": 9
+    },
+    "split_paid": {
+      "flagged": 4
+    },
+    "not_due": {
+      "correct": 3
+    }
+  },
+  "problems": [
+    {
+      "statement": "HS-0001",
+      "doc_id": "DN-0004",
+      "truth": "amount_mismatch",
+      "ours": "unpaid",
+      "outcome": "flagged",
+      "note": "not paid out; was due 2026-11-02"
+    },
+    {
+      "statement": "HS-0002",
+      "doc_id": "CC-0025",
+      "truth": "wrong_reference",
+      "ours": "unpaid",
+      "outcome": "flagged",
+      "note": "nothing received; was due 2026-07-03"
+    },
+    {
+      "statement": "HS-0002",
+      "doc_id": "CC-0038",
+      "truth": "wrong_reference",
+      "ours": "unpaid",
+      "outcome": "flagged",
+      "note": "nothing received; was due 2026-06-17"
+    },
+    {
+      "statement": "HS-0002",
+      "doc_id": "CC-0040",
+      "truth": "wrong_reference",
+      "ours": "unpaid",
+      "outcome": "flagged",
+      "note": "nothing received; was due 2026-07-23"
+    },
+    {
+      "statement": "HS-0002",
+      "doc_id": "DN-0002",
+      "truth": "amount_mismatch",
+      "ours": "unpaid",
+      "outcome": "flagged",
+      "note": "not paid out; was due 2026-11-02"
+    },
+    {
+      "statement": "HS-0003",
+      "doc_id": "CC-0039",
+      "truth": "wrong_reference",
+      "ours": "unpaid",
+      "outcome": "flagged",
+      "note": "nothing received; was due 2026-02-21"
+    },
+    {
+      "statement": "HS-0003",
+      "doc_id": "DN-0016",
+      "truth": "amount_mismatch",
+      "ours": "unpaid",
+      "outcome": "flagged",
+      "note": "not paid out; was due 2026-06-04"
+    },
+    {
+      "statement": "HS-0004",
+      "doc_id": "CC-0046",
+      "truth": "wrong_reference",
+      "ours": "unpaid",
+      "outcome": "flagged",
+      "note": "nothing received; was due 2026-11-09"
+    },
+    {
+      "statement": "HS-0004",
+      "doc_id": "DN-0009",
+      "truth": "amount_mismatch",
+      "ours": "unpaid",
+      "outcome": "flagged",
+      "note": "not paid out; was due 2026-05-12"
+    },
+    {
+      "statement": "HS-0005",
+      "doc_id": "CC-0013",
+      "truth": "wrong_reference",
+      "ours": "unpaid",
+      "outcome": "flagged",
+      "note": "nothing received; was due 2026-05-21"
+    },
+    {
+      "statement": "HS-0005",
+      "doc_id": "DN-0011",
+      "truth": "amount_mismatch",
+      "ours": "unpaid",
+      "outcome": "flagged",
+      "note": "not paid out; was due 2026-07-02"
+    },
+    {
+      "statement": "HS-0006",
+      "doc_id": "DN-0022",
+      "truth": "amount_mismatch",
+      "ours": "unpaid",
+      "outcome": "flagged",
+      "note": "not paid out; was due 2026-09-28"
+    },
+    {
+      "statement": "HS-0007",
+      "doc_id": "CC-0026",
+      "truth": "split_paid",
+      "ours": "partial",
+      "outcome": "flagged",
+      "note": "short by 350,000.00"
+    },
+    {
+      "statement": "HS-0007",
+      "doc_id": "CC-0034",
+      "truth": "wrong_reference",
+      "ours": "unpaid",
+      "outcome": "flagged",
+      "note": "nothing received; was due 2026-06-24"
+    },
+    {
+      "statement": "HS-0007",
+      "doc_id": "DN-0024",
+      "truth": "amount_mismatch",
+      "ours": "unpaid",
+      "outcome": "flagged",
+      "note": "not paid out; was due 2026-04-15"
+    },
+    {
+      "statement": "HS-0008",
+      "doc_id": "CC-0030",
+      "truth": "wrong_reference",
+      "ours": "unpaid",
+      "outcome": "flagged",
+      "note": "nothing received; was due 2026-08-29"
+    },
+    {
+      "statement": "HS-0008",
+      "doc_id": "CC-0057",
+      "truth": "wrong_reference",
+      "ours": "unpaid",
+      "outcome": "flagged",
+      "note": "nothing received; was due 2026-08-12"
+    },
+    {
+      "statement": "HS-0008",
+      "doc_id": "DN-0027",
+      "truth": "amount_mismatch",
+      "ours": "unpaid",
+      "outcome": "flagged",
+      "note": "not paid out; was due 2026-07-13"
+    },
+    {
+      "statement": "HS-0009",
+      "doc_id": "CC-0007",
+      "truth": "split_paid",
+      "ours": "partial",
+      "outcome": "flagged",
+      "note": "short by 175,000.00"
+    },
+    {
+      "statement": "HS-0009",
+      "doc_id": "CC-0017",
+      "truth": "split_paid",
+      "ours": "partial",
+      "outcome": "flagged",
+      "note": "short by 220,000.00"
+    },
+    {
+      "statement": "HS-0009",
+      "doc_id": "CC-0029",
+      "truth": "split_paid",
+      "ours": "partial",
+      "outcome": "flagged",
+      "note": "short by 350,000.00"
+    },
+    {
+      "statement": "HS-0009",
+      "doc_id": "DN-0019",
+      "truth": "amount_mismatch",
+      "ours": "unpaid",
+      "outcome": "flagged",
+      "note": "not paid out; was due 2026-07-21"
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "doc_id": "HS-0001",
+  "fund_id": "FND-001",
+  "period_end": "2026-12-31",
+  "lines": 11,
+  "truth": {
+    "CC-0022": "overpaid",
+    "CC-0036": "paid",
+    "CC-0041": "partial",
+    "CC-0056": "paid",
+    "DN-0004": "amount_mismatch",
+    "DN-0012": "paid",
+    "DN-0030": "paid"
+  },
+  "challenges": [
+    {
+      "doc_id": "CC-0022",
+      "challenge": "overpaid"
+    },
+    {
+      "doc_id": "CC-0036",
+      "challenge": "paid"
+    },
+    {
+      "doc_id": "CC-0041",
+      "challenge": "fee_over_tolerance"
+    },
+    {
+      "doc_id": "CC-0056",
+      "challenge": "paid"
+    }
+  ],
+  "expected_unmatched_lines": 1
+}

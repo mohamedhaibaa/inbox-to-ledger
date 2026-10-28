@@ -1,0 +1,29 @@
+{
+  "doc_id": "HS-0004",
+  "fund_id": "FND-004",
+  "period_end": "2026-12-31",
+  "lines": 13,
+  "truth": {
+    "CC-0023": "partial",
+    "CC-0035": "paid",
+    "CC-0046": "wrong_reference",
+    "DN-0009": "amount_mismatch",
+    "DN-0032": "paid",
+    "DN-0036": "paid"
+  },
+  "challenges": [
+    {
+      "doc_id": "CC-0023",
+      "challenge": "late_and_short"
+    },
+    {
+      "doc_id": "CC-0035",
+      "challenge": "paid"
+    },
+    {
+      "doc_id": "CC-0046",
+      "challenge": "wrong_call_number"
+    }
+  ],
+  "expected_unmatched_lines": 2
+}

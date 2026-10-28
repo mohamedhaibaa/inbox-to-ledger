@@ -1,0 +1,59 @@
+{
+  "doc_id": "HS-0007",
+  "fund_id": "FND-007",
+  "period_end": "2026-12-31",
+  "lines": 19,
+  "truth": {
+    "CC-0002": "overpaid",
+    "CC-0005": "paid_less_fee",
+    "CC-0014": "paid",
+    "CC-0021": "overpaid",
+    "CC-0026": "split_paid",
+    "CC-0028": "paid_less_fee",
+    "CC-0034": "wrong_reference",
+    "CC-0045": "paid",
+    "CC-0060": "paid",
+    "DN-0024": "amount_mismatch",
+    "DN-0028": "paid",
+    "DN-0031": "paid"
+  },
+  "challenges": [
+    {
+      "doc_id": "CC-0002",
+      "challenge": "overpaid"
+    },
+    {
+      "doc_id": "CC-0005",
+      "challenge": "fee_at_tolerance"
+    },
+    {
+      "doc_id": "CC-0014",
+      "challenge": "duplicate_wire"
+    },
+    {
+      "doc_id": "CC-0021",
+      "challenge": "overpaid"
+    },
+    {
+      "doc_id": "CC-0026",
+      "challenge": "split_payment"
+    },
+    {
+      "doc_id": "CC-0028",
+      "challenge": "fee_at_tolerance"
+    },
+    {
+      "doc_id": "CC-0034",
+      "challenge": "wrong_call_number"
+    },
+    {
+      "doc_id": "CC-0045",
+      "challenge": "duplicate_wire"
+    },
+    {
+      "doc_id": "CC-0060",
+      "challenge": "paid_on_due_date"
+    }
+  ],
+  "expected_unmatched_lines": 5
+}

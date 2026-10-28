@@ -1,0 +1,32 @@
+{
+  "doc_id": "HS-0003",
+  "fund_id": "FND-003",
+  "period_end": "2026-12-31",
+  "lines": 11,
+  "truth": {
+    "CC-0003": "partial",
+    "CC-0006": "partial",
+    "CC-0039": "wrong_reference",
+    "CC-0049": "unpaid",
+    "DN-0016": "amount_mismatch"
+  },
+  "challenges": [
+    {
+      "doc_id": "CC-0003",
+      "challenge": "fee_over_tolerance"
+    },
+    {
+      "doc_id": "CC-0006",
+      "challenge": "fee_over_tolerance"
+    },
+    {
+      "doc_id": "CC-0039",
+      "challenge": "wrong_call_number"
+    },
+    {
+      "doc_id": "CC-0049",
+      "challenge": "unknown_payer"
+    }
+  ],
+  "expected_unmatched_lines": 3
+}

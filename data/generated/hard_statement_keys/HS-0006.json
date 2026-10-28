@@ -1,0 +1,12 @@
+{
+  "doc_id": "HS-0006",
+  "fund_id": "FND-006",
+  "period_end": "2026-12-31",
+  "lines": 8,
+  "truth": {
+    "DN-0022": "amount_mismatch",
+    "DN-0037": "paid"
+  },
+  "challenges": [],
+  "expected_unmatched_lines": 1
+}

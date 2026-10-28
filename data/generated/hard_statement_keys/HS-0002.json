@@ -1,0 +1,72 @@
+{
+  "doc_id": "HS-0002",
+  "fund_id": "FND-002",
+  "period_end": "2026-12-31",
+  "lines": 30,
+  "truth": {
+    "CC-0008": "unpaid",
+    "CC-0025": "wrong_reference",
+    "CC-0033": "paid_less_fee",
+    "CC-0038": "wrong_reference",
+    "CC-0040": "wrong_reference",
+    "CC-0043": "unpaid",
+    "CC-0044": "partial",
+    "CC-0051": "paid",
+    "CC-0052": "paid_less_fee",
+    "DN-0002": "amount_mismatch",
+    "DN-0006": "paid",
+    "DN-0007": "paid",
+    "DN-0008": "paid",
+    "DN-0010": "paid",
+    "DN-0013": "paid",
+    "DN-0014": "paid",
+    "DN-0015": "paid",
+    "DN-0017": "paid",
+    "DN-0018": "paid",
+    "DN-0020": "paid",
+    "DN-0025": "paid",
+    "DN-0026": "paid",
+    "DN-0029": "paid",
+    "DN-0035": "paid",
+    "DN-0039": "paid"
+  },
+  "challenges": [
+    {
+      "doc_id": "CC-0008",
+      "challenge": "unknown_payer"
+    },
+    {
+      "doc_id": "CC-0025",
+      "challenge": "wrong_call_number"
+    },
+    {
+      "doc_id": "CC-0033",
+      "challenge": "fee_at_tolerance"
+    },
+    {
+      "doc_id": "CC-0038",
+      "challenge": "wrong_call_number"
+    },
+    {
+      "doc_id": "CC-0040",
+      "challenge": "wrong_call_number"
+    },
+    {
+      "doc_id": "CC-0043",
+      "challenge": "unknown_payer"
+    },
+    {
+      "doc_id": "CC-0044",
+      "challenge": "late_and_short"
+    },
+    {
+      "doc_id": "CC-0051",
+      "challenge": "duplicate_wire"
+    },
+    {
+      "doc_id": "CC-0052",
+      "challenge": "fee_at_tolerance"
+    }
+  ],
+  "expected_unmatched_lines": 7
+}
