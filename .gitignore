@@ -224,3 +224,6 @@ models/
 
 data/review.db
 eval/results/replay.db
+
+.aws-sam/
+samconfig.toml

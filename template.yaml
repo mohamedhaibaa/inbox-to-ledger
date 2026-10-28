@@ -1,0 +1,128 @@
+AWSTemplateFormatVersion: "2010-09-09"
+Transform: AWS::Serverless-2016-10-31
+Description: >
+  Inbox to Ledger (Step 13). Upload a PDF to s3://<bucket>/incoming/ and it is read, classified,
+  extracted by Claude, validated, and saved to DynamoDB. Everything here is created and deleted together.
+
+Parameters:
+  AnthropicModel:
+    Type: String
+    Default: claude-haiku-5-5
+  ApiKeyParameter:
+    Type: String
+    Default: /inbox-to-ledger/anthropic-api-key
+    Description: SSM SecureString holding the Anthropic API key (created by hand, never in this file)
+
+Resources:
+  # 1. Where documents arrive. Private, encrypted, versioned (an overwritten PDF can be recovered).
+  InboxBucket:
+    Type: AWS::S3::Bucket
+    DependsOn: QueuePolicy
+    Properties:
+      BucketName: !Sub "${AWS::StackName}-inbox-${AWS::AccountId}"
+      PublicAccessBlockConfiguration:
+        BlockPublicAcls: true
+        BlockPublicPolicy: true
+        IgnorePublicAcls: true
+        RestrictPublicBuckets: true
+      BucketEncryption:
+        ServerSideEncryptionConfiguration:
+          - ServerSideEncryptionByDefault: { SSEAlgorithm: AES256 }
+      VersioningConfiguration: { Status: Enabled }
+      NotificationConfiguration:
+        QueueConfigurations:
+          - Event: s3:ObjectCreated:*
+            Queue: !GetAtt DocumentQueue.Arn
+            Filter:
+              S3Key:
+                Rules:
+                  - { Name: prefix, Value: incoming/ }
+                  - { Name: suffix, Value: .pdf }
+
+  # 2. A queue between S3 and Lambda: absorbs bursts, retries failures, never loses a document.
+  DocumentQueue:
+    Type: AWS::SQS::Queue
+    Properties:
+      VisibilityTimeout: 360 # 6 x the function timeout, as AWS recommends
+      RedrivePolicy:
+        deadLetterTargetArn: !GetAtt DeadLetterQueue.Arn
+        maxReceiveCount: 3 # after 3 failed attempts, park it for a person
+
+  DeadLetterQueue:
+    Type: AWS::SQS::Queue
+    Properties:
+      MessageRetentionPeriod: 1209600 # 14 days
+
+  QueuePolicy: # only THIS bucket, in THIS account, may send to the queue
+    Type: AWS::SQS::QueuePolicy
+    Properties:
+      Queues: [!Ref DocumentQueue]
+      PolicyDocument:
+        Statement:
+          - Effect: Allow
+            Principal: { Service: s3.amazonaws.com }
+            Action: sqs:SendMessage
+            Resource: !GetAtt DocumentQueue.Arn
+            Condition:
+              ArnEquals:
+                {
+                  aws:SourceArn: !Sub "arn:aws:s3:::${AWS::StackName}-inbox-${AWS::AccountId}",
+                }
+              StringEquals: { aws:SourceAccount: !Ref AWS::AccountId }
+
+  # 3. Results: one item per document, keyed by the file's SHA-256 (so duplicates are detected).
+  DocumentsTable:
+    Type: AWS::DynamoDB::Table
+    Properties:
+      BillingMode: PAY_PER_REQUEST # pay per request, nothing when idle
+      AttributeDefinitions: [{ AttributeName: pk, AttributeType: S }]
+      KeySchema: [{ AttributeName: pk, KeyType: HASH }]
+      PointInTimeRecoverySpecification: { PointInTimeRecoveryEnabled: true }
+
+  # 4. The worker: our pipeline in a container image.
+  ProcessFunction:
+    Type: AWS::Serverless::Function
+    Properties:
+      PackageType: Image
+      Architectures: [arm64] # matches Apple Silicon Macs; also cheaper on AWS
+      MemorySize: 512
+      Timeout: 60
+      Environment:
+        Variables:
+          TABLE_NAME: !Ref DocumentsTable
+          API_KEY_PARAM: !Ref ApiKeyParameter
+          ANTHROPIC_MODEL: !Ref AnthropicModel
+      Policies: # least privilege: only these resources
+        - DynamoDBCrudPolicy: { TableName: !Ref DocumentsTable }
+        - S3ReadPolicy:
+            { BucketName: !Sub "${AWS::StackName}-inbox-${AWS::AccountId}" }
+        - Statement:
+            - Effect: Allow
+              Action: ssm:GetParameter
+              Resource: !Sub "arn:aws:ssm:${AWS::Region}:${AWS::AccountId}:parameter${ApiKeyParameter}"
+      Events:
+        FromQueue:
+          Type: SQS
+          Properties:
+            Queue: !GetAtt DocumentQueue.Arn
+            BatchSize: 1
+            FunctionResponseTypes: [ReportBatchItemFailures]
+    Metadata:
+      Dockerfile: Dockerfile
+      DockerContext: .
+
+  ProcessFunctionLogs: # keep logs 14 days, not forever (cost)
+    Type: AWS::Logs::LogGroup
+    Properties:
+      LogGroupName: !Sub "/aws/lambda/${ProcessFunction}"
+      RetentionInDays: 14
+
+Outputs:
+  BucketName:
+    Value: !Ref InboxBucket
+  TableName:
+    Value: !Ref DocumentsTable
+  DeadLetterQueueUrl:
+    Value: !Ref DeadLetterQueue
+  FunctionName:
+    Value: !Ref ProcessFunction

@@ -1,0 +1,8 @@
+# Never send secrets or bulky folders into the image build
+.env
+.venv/
+.git/
+data/generated/
+eval/
+tests/
+**/__pycache__/
