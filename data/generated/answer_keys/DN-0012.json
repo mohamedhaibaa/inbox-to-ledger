@@ -1,0 +1,14 @@
+{
+  "doc_id": "DN-0012",
+  "doc_type": "distribution",
+  "layout": "dist_letter",
+  "fund_id": "FND-001",
+  "fund_name": "Maple Growth Fund I",
+  "investor_id": "INV-0005",
+  "investor_name": "Lake Debra Pension Plan",
+  "amount": "455000.00",
+  "currency": "CAD",
+  "distribution_type": "Income distribution",
+  "notice_date": "2026-10-13",
+  "payment_date": "2026-10-20"
+}

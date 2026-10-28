@@ -1,0 +1,14 @@
+{
+  "doc_id": "DN-0034",
+  "doc_type": "distribution",
+  "layout": "dist_notice",
+  "fund_id": "FND-009",
+  "fund_name": "Bluewater Infrastructure Fund III",
+  "investor_id": "INV-0024",
+  "investor_name": "Adamsborough Insurance Co.",
+  "amount": "682500.00",
+  "currency": "CAD",
+  "distribution_type": "Return of capital",
+  "notice_date": "2026-01-15",
+  "payment_date": "2026-01-22"
+}

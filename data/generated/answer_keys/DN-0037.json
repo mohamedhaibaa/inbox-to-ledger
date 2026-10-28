@@ -1,0 +1,14 @@
+{
+  "doc_id": "DN-0037",
+  "doc_type": "distribution",
+  "layout": "dist_notice",
+  "fund_id": "FND-006",
+  "fund_name": "Cedar Infrastructure Fund I",
+  "investor_id": "INV-0001",
+  "investor_name": "North Judithbury Insurance Co.",
+  "amount": "652500.00",
+  "currency": "CAD",
+  "distribution_type": "Income distribution",
+  "notice_date": "2026-06-26",
+  "payment_date": "2026-07-03"
+}

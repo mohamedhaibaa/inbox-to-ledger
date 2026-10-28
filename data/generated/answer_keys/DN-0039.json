@@ -1,0 +1,14 @@
+{
+  "doc_id": "DN-0039",
+  "doc_type": "distribution",
+  "layout": "dist_letter",
+  "fund_id": "FND-002",
+  "fund_name": "Harbour Capital Fund I",
+  "investor_id": "INV-0022",
+  "investor_name": "Lake Mark Insurance Co.",
+  "amount": "52500.00",
+  "currency": "CAD",
+  "distribution_type": "Realized gain",
+  "notice_date": "2026-07-22",
+  "payment_date": "2026-07-29"
+}

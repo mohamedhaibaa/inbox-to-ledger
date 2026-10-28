@@ -1,0 +1,14 @@
+{
+  "doc_id": "DN-0007",
+  "doc_type": "distribution",
+  "layout": "dist_letter",
+  "fund_id": "FND-002",
+  "fund_name": "Harbour Capital Fund I",
+  "investor_id": "INV-0005",
+  "investor_name": "Lake Debra Pension Plan",
+  "amount": "302500.00",
+  "currency": "CAD",
+  "distribution_type": "Income distribution",
+  "notice_date": "2026-01-31",
+  "payment_date": "2026-02-07"
+}

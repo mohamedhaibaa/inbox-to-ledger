@@ -1,0 +1,93 @@
+{
+  "doc_id": "BS-0003",
+  "doc_type": "bank_statement",
+  "fund_id": "FND-003",
+  "fund_name": "Northern Credit Fund I",
+  "account_number": "22280-329258",
+  "period_start": "2026-01-01",
+  "period_end": "2026-12-31",
+  "lines": [
+    {
+      "line_no": 1,
+      "date": "2026-02-18",
+      "description": "WIRE IN  ECE CAP CALL 2",
+      "amount_in": "187475.00",
+      "amount_out": null,
+      "matches_doc": "CC-0039",
+      "outcome": "paid_less_fee"
+    },
+    {
+      "line_no": 2,
+      "date": "2026-05-13",
+      "description": "BANK INTEREST",
+      "amount_in": "742.00",
+      "amount_out": null,
+      "matches_doc": null,
+      "outcome": "unrelated"
+    },
+    {
+      "line_no": 3,
+      "date": "2026-05-16",
+      "description": "BANK INTEREST",
+      "amount_in": "136.00",
+      "amount_out": null,
+      "matches_doc": null,
+      "outcome": "unrelated"
+    },
+    {
+      "line_no": 4,
+      "date": "2026-05-19",
+      "description": "AUDIT FEES",
+      "amount_in": null,
+      "amount_out": "10949.00",
+      "matches_doc": null,
+      "outcome": "unrelated"
+    },
+    {
+      "line_no": 5,
+      "date": "2026-06-04",
+      "description": "WIRE OUT EJE DISTRIBUTION",
+      "amount_in": null,
+      "amount_out": "450000.00",
+      "matches_doc": "DN-0016",
+      "outcome": "distribution"
+    },
+    {
+      "line_no": 6,
+      "date": "2026-06-30",
+      "description": "WIRE IN  EJFO CAP CALL 2",
+      "amount_in": "974985.00",
+      "amount_out": null,
+      "matches_doc": "CC-0049",
+      "outcome": "paid_less_fee"
+    },
+    {
+      "line_no": 7,
+      "date": "2026-07-22",
+      "description": "WIRE IN  ECE CAP CALL 1",
+      "amount_in": "187500.00",
+      "amount_out": null,
+      "matches_doc": "CC-0006",
+      "outcome": "paid"
+    },
+    {
+      "line_no": 8,
+      "date": "2026-09-21",
+      "description": "WIRE OUT INVESTMENT HALE AND SONS",
+      "amount_in": null,
+      "amount_out": "2750658.00",
+      "matches_doc": null,
+      "outcome": "unrelated"
+    },
+    {
+      "line_no": 9,
+      "date": "2026-10-19",
+      "description": "WIRE IN  EJFO CAP CALL 1",
+      "amount_in": "974975.00",
+      "amount_out": null,
+      "matches_doc": "CC-0003",
+      "outcome": "paid_less_fee"
+    }
+  ],
+  "unpaid_calls": []
+}

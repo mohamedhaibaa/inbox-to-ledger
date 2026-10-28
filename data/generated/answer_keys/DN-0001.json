@@ -1,0 +1,14 @@
+{
+  "doc_id": "DN-0001",
+  "doc_type": "distribution",
+  "layout": "dist_letter",
+  "fund_id": "FND-010",
+  "fund_name": "Ironwood Growth Fund IV",
+  "investor_id": "INV-0021",
+  "investor_name": "South Noah Pension Plan",
+  "amount": "180000.00",
+  "currency": "CAD",
+  "distribution_type": "Income distribution",
+  "notice_date": "2026-07-22",
+  "payment_date": "2026-07-29"
+}

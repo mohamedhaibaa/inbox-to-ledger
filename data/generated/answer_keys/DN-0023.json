@@ -1,0 +1,14 @@
+{
+  "doc_id": "DN-0023",
+  "doc_type": "distribution",
+  "layout": "dist_notice",
+  "fund_id": "FND-005",
+  "fund_name": "Summit Ventures Fund IV",
+  "investor_id": "INV-0039",
+  "investor_name": "East Nathaniel Pension Plan",
+  "amount": "340000.00",
+  "currency": "CAD",
+  "distribution_type": "Realized gain",
+  "notice_date": "2026-07-23",
+  "payment_date": "2026-07-30"
+}

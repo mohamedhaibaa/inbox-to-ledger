@@ -1,0 +1,14 @@
+{
+  "doc_id": "DN-0040",
+  "doc_type": "distribution",
+  "layout": "dist_letter",
+  "fund_id": "FND-009",
+  "fund_name": "Bluewater Infrastructure Fund III",
+  "investor_id": "INV-0010",
+  "investor_name": "North Noahstad Endowment",
+  "amount": "100000.00",
+  "currency": "CAD",
+  "distribution_type": "Return of capital",
+  "notice_date": "2026-03-07",
+  "payment_date": "2026-03-14"
+}

@@ -1,0 +1,14 @@
+{
+  "doc_id": "DN-0030",
+  "doc_type": "distribution",
+  "layout": "dist_notice",
+  "fund_id": "FND-001",
+  "fund_name": "Maple Growth Fund I",
+  "investor_id": "INV-0037",
+  "investor_name": "Teresaburgh Foundation",
+  "amount": "350000.00",
+  "currency": "CAD",
+  "distribution_type": "Income distribution",
+  "notice_date": "2026-03-17",
+  "payment_date": "2026-03-24"
+}

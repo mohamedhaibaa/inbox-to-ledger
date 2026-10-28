@@ -1,0 +1,14 @@
+{
+  "doc_id": "DN-0022",
+  "doc_type": "distribution",
+  "layout": "dist_letter",
+  "fund_id": "FND-006",
+  "fund_name": "Cedar Infrastructure Fund I",
+  "investor_id": "INV-0008",
+  "investor_name": "Lake Roberto Family Office",
+  "amount": "1007500.00",
+  "currency": "CAD",
+  "distribution_type": "Income distribution",
+  "notice_date": "2026-09-21",
+  "payment_date": "2026-09-28"
+}

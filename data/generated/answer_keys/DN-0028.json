@@ -1,0 +1,14 @@
+{
+  "doc_id": "DN-0028",
+  "doc_type": "distribution",
+  "layout": "dist_notice",
+  "fund_id": "FND-007",
+  "fund_name": "Granite Infrastructure Fund II",
+  "investor_id": "INV-0031",
+  "investor_name": "East Courtneychester Endowment",
+  "amount": "472500.00",
+  "currency": "CAD",
+  "distribution_type": "Realized gain",
+  "notice_date": "2026-09-05",
+  "payment_date": "2026-09-12"
+}

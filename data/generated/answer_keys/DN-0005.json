@@ -1,0 +1,14 @@
+{
+  "doc_id": "DN-0005",
+  "doc_type": "distribution",
+  "layout": "dist_letter",
+  "fund_id": "FND-010",
+  "fund_name": "Ironwood Growth Fund IV",
+  "investor_id": "INV-0003",
+  "investor_name": "New Roberttown Insurance Co.",
+  "amount": "725000.00",
+  "currency": "CAD",
+  "distribution_type": "Realized gain",
+  "notice_date": "2026-03-10",
+  "payment_date": "2026-03-17"
+}

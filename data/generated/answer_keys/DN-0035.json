@@ -1,0 +1,14 @@
+{
+  "doc_id": "DN-0035",
+  "doc_type": "distribution",
+  "layout": "dist_notice",
+  "fund_id": "FND-002",
+  "fund_name": "Harbour Capital Fund I",
+  "investor_id": "INV-0024",
+  "investor_name": "Adamsborough Insurance Co.",
+  "amount": "427500.00",
+  "currency": "CAD",
+  "distribution_type": "Realized gain",
+  "notice_date": "2026-06-28",
+  "payment_date": "2026-07-05"
+}

@@ -1,0 +1,93 @@
+{
+  "doc_id": "BS-0006",
+  "doc_type": "bank_statement",
+  "fund_id": "FND-006",
+  "fund_name": "Cedar Infrastructure Fund I",
+  "account_number": "65392-456778",
+  "period_start": "2026-01-01",
+  "period_end": "2026-12-31",
+  "lines": [
+    {
+      "line_no": 1,
+      "date": "2026-01-01",
+      "description": "BANK INTEREST",
+      "amount_in": "237.00",
+      "amount_out": null,
+      "matches_doc": null,
+      "outcome": "unrelated"
+    },
+    {
+      "line_no": 2,
+      "date": "2026-02-15",
+      "description": "MANAGEMENT FEE Q1",
+      "amount_in": null,
+      "amount_out": "37312.00",
+      "matches_doc": null,
+      "outcome": "unrelated"
+    },
+    {
+      "line_no": 3,
+      "date": "2026-06-08",
+      "description": "AUDIT FEES",
+      "amount_in": null,
+      "amount_out": "6128.00",
+      "matches_doc": null,
+      "outcome": "unrelated"
+    },
+    {
+      "line_no": 4,
+      "date": "2026-06-18",
+      "description": "MANAGEMENT FEE Q3",
+      "amount_in": null,
+      "amount_out": "43864.00",
+      "matches_doc": null,
+      "outcome": "unrelated"
+    },
+    {
+      "line_no": 5,
+      "date": "2026-07-03",
+      "description": "WIRE OUT NJIC DISTRIBUTION",
+      "amount_in": null,
+      "amount_out": "652500.00",
+      "matches_doc": "DN-0037",
+      "outcome": "distribution"
+    },
+    {
+      "line_no": 6,
+      "date": "2026-08-17",
+      "description": "BANK INTEREST",
+      "amount_in": "325.00",
+      "amount_out": null,
+      "matches_doc": null,
+      "outcome": "unrelated"
+    },
+    {
+      "line_no": 7,
+      "date": "2026-09-01",
+      "description": "AUDIT FEES",
+      "amount_in": null,
+      "amount_out": "7748.00",
+      "matches_doc": null,
+      "outcome": "unrelated"
+    },
+    {
+      "line_no": 8,
+      "date": "2026-09-16",
+      "description": "AUDIT FEES",
+      "amount_in": null,
+      "amount_out": "13132.00",
+      "matches_doc": null,
+      "outcome": "unrelated"
+    },
+    {
+      "line_no": 9,
+      "date": "2026-09-28",
+      "description": "WIRE OUT LRFO DISTRIBUTION",
+      "amount_in": null,
+      "amount_out": "1007500.00",
+      "matches_doc": "DN-0022",
+      "outcome": "distribution"
+    }
+  ],
+  "unpaid_calls": []
+}

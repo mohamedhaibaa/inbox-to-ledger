@@ -1,0 +1,14 @@
+{
+  "doc_id": "DN-0013",
+  "doc_type": "distribution",
+  "layout": "dist_notice",
+  "fund_id": "FND-002",
+  "fund_name": "Harbour Capital Fund I",
+  "investor_id": "INV-0034",
+  "investor_name": "Lake Nicoleview Endowment",
+  "amount": "522500.00",
+  "currency": "CAD",
+  "distribution_type": "Return of capital",
+  "notice_date": "2026-08-22",
+  "payment_date": "2026-08-29"
+}

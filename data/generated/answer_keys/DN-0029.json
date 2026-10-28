@@ -1,0 +1,14 @@
+{
+  "doc_id": "DN-0029",
+  "doc_type": "distribution",
+  "layout": "dist_notice",
+  "fund_id": "FND-002",
+  "fund_name": "Harbour Capital Fund I",
+  "investor_id": "INV-0023",
+  "investor_name": "East Lydiamouth Endowment",
+  "amount": "195000.00",
+  "currency": "CAD",
+  "distribution_type": "Realized gain",
+  "notice_date": "2026-05-16",
+  "payment_date": "2026-05-23"
+}

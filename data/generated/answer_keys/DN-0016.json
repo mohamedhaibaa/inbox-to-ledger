@@ -1,0 +1,14 @@
+{
+  "doc_id": "DN-0016",
+  "doc_type": "distribution",
+  "layout": "dist_notice",
+  "fund_id": "FND-003",
+  "fund_name": "Northern Credit Fund I",
+  "investor_id": "INV-0004",
+  "investor_name": "East Jessetown Endowment",
+  "amount": "450000.00",
+  "currency": "CAD",
+  "distribution_type": "Return of capital",
+  "notice_date": "2026-05-28",
+  "payment_date": "2026-06-04"
+}

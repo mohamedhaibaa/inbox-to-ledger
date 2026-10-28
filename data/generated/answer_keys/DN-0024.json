@@ -1,0 +1,14 @@
+{
+  "doc_id": "DN-0024",
+  "doc_type": "distribution",
+  "layout": "dist_notice",
+  "fund_id": "FND-007",
+  "fund_name": "Granite Infrastructure Fund II",
+  "investor_id": "INV-0028",
+  "investor_name": "Juliechester Foundation",
+  "amount": "150000.00",
+  "currency": "CAD",
+  "distribution_type": "Return of capital",
+  "notice_date": "2026-04-08",
+  "payment_date": "2026-04-15"
+}

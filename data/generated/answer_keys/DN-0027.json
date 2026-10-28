@@ -1,0 +1,14 @@
+{
+  "doc_id": "DN-0027",
+  "doc_type": "distribution",
+  "layout": "dist_letter",
+  "fund_id": "FND-008",
+  "fund_name": "Lakeshore Growth Fund IV",
+  "investor_id": "INV-0015",
+  "investor_name": "Port Keith Family Office",
+  "amount": "682500.00",
+  "currency": "CAD",
+  "distribution_type": "Realized gain",
+  "notice_date": "2026-07-06",
+  "payment_date": "2026-07-13"
+}

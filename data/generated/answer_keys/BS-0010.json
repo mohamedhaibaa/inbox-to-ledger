@@ -1,0 +1,149 @@
+{
+  "doc_id": "BS-0010",
+  "doc_type": "bank_statement",
+  "fund_id": "FND-010",
+  "fund_name": "Ironwood Growth Fund IV",
+  "account_number": "82357-407419",
+  "period_start": "2026-01-01",
+  "period_end": "2026-12-31",
+  "lines": [
+    {
+      "line_no": 1,
+      "date": "2026-01-12",
+      "description": "WIRE IN  NRIC CAP CALL 1",
+      "amount_in": "1450000.00",
+      "amount_out": null,
+      "matches_doc": "CC-0055",
+      "outcome": "paid"
+    },
+    {
+      "line_no": 2,
+      "date": "2026-02-01",
+      "description": "WIRE OUT INVESTMENT CHANG LLC",
+      "amount_in": null,
+      "amount_out": "1918526.00",
+      "matches_doc": null,
+      "outcome": "unrelated"
+    },
+    {
+      "line_no": 3,
+      "date": "2026-03-17",
+      "description": "WIRE OUT NRIC DISTRIBUTION",
+      "amount_in": null,
+      "amount_out": "725000.00",
+      "matches_doc": "DN-0005",
+      "outcome": "distribution"
+    },
+    {
+      "line_no": 4,
+      "date": "2026-04-11",
+      "description": "WIRE IN  JF CAP CALL 1",
+      "amount_in": "349975.00",
+      "amount_out": null,
+      "matches_doc": "CC-0058",
+      "outcome": "paid_less_fee"
+    },
+    {
+      "line_no": 5,
+      "date": "2026-04-18",
+      "description": "WIRE OUT INVESTMENT THOMAS-DANIELS",
+      "amount_in": null,
+      "amount_out": "2698520.00",
+      "matches_doc": null,
+      "outcome": "unrelated"
+    },
+    {
+      "line_no": 6,
+      "date": "2026-05-02",
+      "description": "WIRE IN  NSE CAP CALL 1",
+      "amount_in": "1425000.00",
+      "amount_out": null,
+      "matches_doc": "CC-0012",
+      "outcome": "paid"
+    },
+    {
+      "line_no": 7,
+      "date": "2026-05-11",
+      "description": "WIRE OUT JF DISTRIBUTION",
+      "amount_in": null,
+      "amount_out": "52500.00",
+      "matches_doc": "DN-0003",
+      "outcome": "distribution"
+    },
+    {
+      "line_no": 8,
+      "date": "2026-05-16",
+      "description": "WIRE IN  LCF CAP CALL 1",
+      "amount_in": "474985.00",
+      "amount_out": null,
+      "matches_doc": "CC-0020",
+      "outcome": "paid_less_fee"
+    },
+    {
+      "line_no": 9,
+      "date": "2026-05-28",
+      "description": "WIRE IN  NSE CAP CALL 2",
+      "amount_in": "1424975.00",
+      "amount_out": null,
+      "matches_doc": "CC-0037",
+      "outcome": "paid_less_fee"
+    },
+    {
+      "line_no": 10,
+      "date": "2026-06-25",
+      "description": "BANK INTEREST",
+      "amount_in": "228.00",
+      "amount_out": null,
+      "matches_doc": null,
+      "outcome": "unrelated"
+    },
+    {
+      "line_no": 11,
+      "date": "2026-07-08",
+      "description": "MANAGEMENT FEE Q3",
+      "amount_in": null,
+      "amount_out": "35671.00",
+      "matches_doc": null,
+      "outcome": "unrelated"
+    },
+    {
+      "line_no": 12,
+      "date": "2026-07-29",
+      "description": "WIRE OUT SNPP DISTRIBUTION",
+      "amount_in": null,
+      "amount_out": "180000.00",
+      "matches_doc": "DN-0001",
+      "outcome": "distribution"
+    },
+    {
+      "line_no": 13,
+      "date": "2026-07-31",
+      "description": "AUDIT FEES",
+      "amount_in": null,
+      "amount_out": "5658.00",
+      "matches_doc": null,
+      "outcome": "unrelated"
+    },
+    {
+      "line_no": 14,
+      "date": "2026-08-08",
+      "description": "WIRE IN  LCF CAP CALL 2",
+      "amount_in": "949985.00",
+      "amount_out": null,
+      "matches_doc": "CC-0031",
+      "outcome": "paid_less_fee"
+    },
+    {
+      "line_no": 15,
+      "date": "2026-09-29",
+      "description": "WIRE IN  NJFO CAP CALL 1",
+      "amount_in": "1228500.00",
+      "amount_out": null,
+      "matches_doc": "CC-0054",
+      "outcome": "partial"
+    }
+  ],
+  "unpaid_calls": [
+    "CC-0011"
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "doc_id": "DN-0002",
+  "doc_type": "distribution",
+  "layout": "dist_notice",
+  "fund_id": "FND-002",
+  "fund_name": "Harbour Capital Fund I",
+  "investor_id": "INV-0006",
+  "investor_name": "Robinsonshire Pension Plan",
+  "amount": "577500.00",
+  "currency": "CAD",
+  "distribution_type": "Return of capital",
+  "notice_date": "2026-10-26",
+  "payment_date": "2026-11-02"
+}

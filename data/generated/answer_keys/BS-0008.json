@@ -1,0 +1,131 @@
+{
+  "doc_id": "BS-0008",
+  "doc_type": "bank_statement",
+  "fund_id": "FND-008",
+  "fund_name": "Lakeshore Growth Fund IV",
+  "account_number": "57052-988662",
+  "period_start": "2026-01-01",
+  "period_end": "2026-12-31",
+  "lines": [
+    {
+      "line_no": 1,
+      "date": "2026-02-13",
+      "description": "MANAGEMENT FEE Q2",
+      "amount_in": null,
+      "amount_out": "40425.00",
+      "matches_doc": null,
+      "outcome": "unrelated"
+    },
+    {
+      "line_no": 2,
+      "date": "2026-02-20",
+      "description": "MANAGEMENT FEE Q4",
+      "amount_in": null,
+      "amount_out": "37614.00",
+      "matches_doc": null,
+      "outcome": "unrelated"
+    },
+    {
+      "line_no": 3,
+      "date": "2026-03-29",
+      "description": "WIRE IN  PKFO CAP CALL 1",
+      "amount_in": "487500.00",
+      "amount_out": null,
+      "matches_doc": "CC-0016",
+      "outcome": "late"
+    },
+    {
+      "line_no": 4,
+      "date": "2026-04-20",
+      "description": "WIRE OUT WE DISTRIBUTION",
+      "amount_in": null,
+      "amount_out": "1050000.00",
+      "matches_doc": "DN-0038",
+      "outcome": "distribution"
+    },
+    {
+      "line_no": 5,
+      "date": "2026-05-04",
+      "description": "WIRE IN  NJIC CAP CALL 1",
+      "amount_in": "324975.00",
+      "amount_out": null,
+      "matches_doc": "CC-0024",
+      "outcome": "paid_less_fee"
+    },
+    {
+      "line_no": 6,
+      "date": "2026-07-13",
+      "description": "WIRE OUT PKFO DISTRIBUTION",
+      "amount_in": null,
+      "amount_out": "682500.00",
+      "matches_doc": "DN-0027",
+      "outcome": "distribution"
+    },
+    {
+      "line_no": 7,
+      "date": "2026-07-17",
+      "description": "WIRE IN  JE CAP CALL 1",
+      "amount_in": "499985.00",
+      "amount_out": null,
+      "matches_doc": "CC-0047",
+      "outcome": "paid_less_fee"
+    },
+    {
+      "line_no": 8,
+      "date": "2026-08-08",
+      "description": "WIRE IN  WMFO CAP CALL 1",
+      "amount_in": "712500.00",
+      "amount_out": null,
+      "matches_doc": "CC-0057",
+      "outcome": "paid"
+    },
+    {
+      "line_no": 9,
+      "date": "2026-08-23",
+      "description": "WIRE OUT INVESTMENT MARTIN-PETERSON",
+      "amount_in": null,
+      "amount_out": "1714623.00",
+      "matches_doc": null,
+      "outcome": "unrelated"
+    },
+    {
+      "line_no": 10,
+      "date": "2026-08-27",
+      "description": "AUDIT FEES",
+      "amount_in": null,
+      "amount_out": "20266.00",
+      "matches_doc": null,
+      "outcome": "unrelated"
+    },
+    {
+      "line_no": 11,
+      "date": "2026-09-04",
+      "description": "AUDIT FEES",
+      "amount_in": null,
+      "amount_out": "5408.00",
+      "matches_doc": null,
+      "outcome": "unrelated"
+    },
+    {
+      "line_no": 12,
+      "date": "2026-09-12",
+      "description": "WIRE IN  LCF CAP CALL 1",
+      "amount_in": "300000.00",
+      "amount_out": null,
+      "matches_doc": "CC-0010",
+      "outcome": "late"
+    },
+    {
+      "line_no": 13,
+      "date": "2026-09-22",
+      "description": "BANK INTEREST",
+      "amount_in": "347.00",
+      "amount_out": null,
+      "matches_doc": null,
+      "outcome": "unrelated"
+    }
+  ],
+  "unpaid_calls": [
+    "CC-0030"
+  ]
+}

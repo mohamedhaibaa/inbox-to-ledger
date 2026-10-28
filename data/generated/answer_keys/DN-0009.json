@@ -1,0 +1,14 @@
+{
+  "doc_id": "DN-0009",
+  "doc_type": "distribution",
+  "layout": "dist_notice",
+  "fund_id": "FND-004",
+  "fund_name": "Atlantic Capital Fund I",
+  "investor_id": "INV-0011",
+  "investor_name": "Cassandraton Pension Plan",
+  "amount": "455000.00",
+  "currency": "CAD",
+  "distribution_type": "Return of capital",
+  "notice_date": "2026-05-05",
+  "payment_date": "2026-05-12"
+}

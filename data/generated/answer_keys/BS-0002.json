@@ -1,0 +1,302 @@
+{
+  "doc_id": "BS-0002",
+  "doc_type": "bank_statement",
+  "fund_id": "FND-002",
+  "fund_name": "Harbour Capital Fund I",
+  "account_number": "21395-719176",
+  "period_start": "2026-01-01",
+  "period_end": "2026-12-31",
+  "lines": [
+    {
+      "line_no": 1,
+      "date": "2026-01-21",
+      "description": "WIRE OUT RPP DISTRIBUTION",
+      "amount_in": null,
+      "amount_out": "577500.00",
+      "matches_doc": "DN-0026",
+      "outcome": "distribution"
+    },
+    {
+      "line_no": 2,
+      "date": "2026-02-03",
+      "description": "WIRE IN  CFO CAP CALL 2",
+      "amount_in": "937500.00",
+      "amount_out": null,
+      "matches_doc": "CC-0044",
+      "outcome": "paid"
+    },
+    {
+      "line_no": 3,
+      "date": "2026-02-03",
+      "description": "WIRE OUT ELE DISTRIBUTION",
+      "amount_in": null,
+      "amount_out": "165000.00",
+      "matches_doc": "DN-0025",
+      "outcome": "distribution"
+    },
+    {
+      "line_no": 4,
+      "date": "2026-02-07",
+      "description": "WIRE OUT LDPP DISTRIBUTION",
+      "amount_in": null,
+      "amount_out": "302500.00",
+      "matches_doc": "DN-0007",
+      "outcome": "distribution"
+    },
+    {
+      "line_no": 5,
+      "date": "2026-03-12",
+      "description": "AUDIT FEES",
+      "amount_in": null,
+      "amount_out": "19664.00",
+      "matches_doc": null,
+      "outcome": "unrelated"
+    },
+    {
+      "line_no": 6,
+      "date": "2026-03-12",
+      "description": "AUDIT FEES",
+      "amount_in": null,
+      "amount_out": "13293.00",
+      "matches_doc": null,
+      "outcome": "unrelated"
+    },
+    {
+      "line_no": 7,
+      "date": "2026-03-24",
+      "description": "WIRE OUT INVESTMENT DAVIS-JOSEPH",
+      "amount_in": null,
+      "amount_out": "1438316.00",
+      "matches_doc": null,
+      "outcome": "unrelated"
+    },
+    {
+      "line_no": 8,
+      "date": "2026-03-31",
+      "description": "WIRE IN  COXBERG FAMILY OFFICE CALL 1",
+      "amount_in": "1250000.00",
+      "amount_out": null,
+      "matches_doc": "CC-0033",
+      "outcome": "paid"
+    },
+    {
+      "line_no": 9,
+      "date": "2026-04-03",
+      "description": "WIRE OUT LNE DISTRIBUTION",
+      "amount_in": null,
+      "amount_out": "142500.00",
+      "matches_doc": "DN-0017",
+      "outcome": "distribution"
+    },
+    {
+      "line_no": 10,
+      "date": "2026-04-10",
+      "description": "WIRE OUT JE DISTRIBUTION",
+      "amount_in": null,
+      "amount_out": "625000.00",
+      "matches_doc": "DN-0006",
+      "outcome": "distribution"
+    },
+    {
+      "line_no": 11,
+      "date": "2026-05-04",
+      "description": "WIRE IN  JE CAP CALL 1",
+      "amount_in": "625000.00",
+      "amount_out": null,
+      "matches_doc": "CC-0051",
+      "outcome": "paid"
+    },
+    {
+      "line_no": 12,
+      "date": "2026-05-07",
+      "description": "WIRE OUT LCF DISTRIBUTION",
+      "amount_in": null,
+      "amount_out": "240000.00",
+      "matches_doc": "DN-0020",
+      "outcome": "distribution"
+    },
+    {
+      "line_no": 13,
+      "date": "2026-05-23",
+      "description": "WIRE OUT ELE DISTRIBUTION",
+      "amount_in": null,
+      "amount_out": "195000.00",
+      "matches_doc": "DN-0029",
+      "outcome": "distribution"
+    },
+    {
+      "line_no": 14,
+      "date": "2026-05-30",
+      "description": "WIRE IN  ELE CAP CALL 1",
+      "amount_in": "78000.00",
+      "amount_out": null,
+      "matches_doc": "CC-0043",
+      "outcome": "partial"
+    },
+    {
+      "line_no": 15,
+      "date": "2026-06-03",
+      "description": "WIRE IN  RPP CAP CALL 1",
+      "amount_in": "1650000.00",
+      "amount_out": null,
+      "matches_doc": "CC-0008",
+      "outcome": "paid"
+    },
+    {
+      "line_no": 16,
+      "date": "2026-06-05",
+      "description": "MANAGEMENT FEE Q2",
+      "amount_in": null,
+      "amount_out": "63874.00",
+      "matches_doc": null,
+      "outcome": "unrelated"
+    },
+    {
+      "line_no": 17,
+      "date": "2026-06-15",
+      "description": "WIRE OUT LDPP DISTRIBUTION",
+      "amount_in": null,
+      "amount_out": "55000.00",
+      "matches_doc": "DN-0014",
+      "outcome": "distribution"
+    },
+    {
+      "line_no": 18,
+      "date": "2026-06-17",
+      "description": "WIRE IN  WDF CAP CALL 1",
+      "amount_in": "249975.00",
+      "amount_out": null,
+      "matches_doc": "CC-0038",
+      "outcome": "paid_less_fee"
+    },
+    {
+      "line_no": 19,
+      "date": "2026-06-17",
+      "description": "WIRE OUT CFO DISTRIBUTION",
+      "amount_in": null,
+      "amount_out": "875000.00",
+      "matches_doc": "DN-0008",
+      "outcome": "distribution"
+    },
+    {
+      "line_no": 20,
+      "date": "2026-07-02",
+      "description": "WIRE IN  LDPP CAP CALL 1",
+      "amount_in": "137500.00",
+      "amount_out": null,
+      "matches_doc": "CC-0025",
+      "outcome": "paid"
+    },
+    {
+      "line_no": 21,
+      "date": "2026-07-05",
+      "description": "WIRE OUT AIC DISTRIBUTION",
+      "amount_in": null,
+      "amount_out": "427500.00",
+      "matches_doc": "DN-0035",
+      "outcome": "distribution"
+    },
+    {
+      "line_no": 22,
+      "date": "2026-07-09",
+      "description": "WIRE IN  LDPP CAP CALL 3",
+      "amount_in": "412475.00",
+      "amount_out": null,
+      "matches_doc": "CC-0052",
+      "outcome": "paid_less_fee"
+    },
+    {
+      "line_no": 23,
+      "date": "2026-07-23",
+      "description": "WIRE OUT INVESTMENT WHITE, PERKINS AND F",
+      "amount_in": null,
+      "amount_out": "894790.00",
+      "matches_doc": null,
+      "outcome": "unrelated"
+    },
+    {
+      "line_no": 24,
+      "date": "2026-07-29",
+      "description": "WIRE OUT LMIC DISTRIBUTION",
+      "amount_in": null,
+      "amount_out": "52500.00",
+      "matches_doc": "DN-0039",
+      "outcome": "distribution"
+    },
+    {
+      "line_no": 25,
+      "date": "2026-08-08",
+      "description": "AUDIT FEES",
+      "amount_in": null,
+      "amount_out": "12885.00",
+      "matches_doc": null,
+      "outcome": "unrelated"
+    },
+    {
+      "line_no": 26,
+      "date": "2026-08-15",
+      "description": "WIRE OUT INVESTMENT MCCOY PLC",
+      "amount_in": null,
+      "amount_out": "2145695.00",
+      "matches_doc": null,
+      "outcome": "unrelated"
+    },
+    {
+      "line_no": 27,
+      "date": "2026-08-16",
+      "description": "WIRE OUT LRFO DISTRIBUTION",
+      "amount_in": null,
+      "amount_out": "525000.00",
+      "matches_doc": "DN-0018",
+      "outcome": "distribution"
+    },
+    {
+      "line_no": 28,
+      "date": "2026-08-25",
+      "description": "WIRE OUT ELE DISTRIBUTION",
+      "amount_in": null,
+      "amount_out": "195000.00",
+      "matches_doc": "DN-0010",
+      "outcome": "distribution"
+    },
+    {
+      "line_no": 29,
+      "date": "2026-08-29",
+      "description": "WIRE OUT LNE DISTRIBUTION",
+      "amount_in": null,
+      "amount_out": "522500.00",
+      "matches_doc": "DN-0013",
+      "outcome": "distribution"
+    },
+    {
+      "line_no": 30,
+      "date": "2026-09-01",
+      "description": "WIRE OUT AIC DISTRIBUTION",
+      "amount_in": null,
+      "amount_out": "95000.00",
+      "matches_doc": "DN-0015",
+      "outcome": "distribution"
+    },
+    {
+      "line_no": 31,
+      "date": "2026-11-02",
+      "description": "WIRE OUT RPP DISTRIBUTION",
+      "amount_in": null,
+      "amount_out": "577500.00",
+      "matches_doc": "DN-0002",
+      "outcome": "distribution"
+    },
+    {
+      "line_no": 32,
+      "date": "2026-11-26",
+      "description": "MANAGEMENT FEE Q2",
+      "amount_in": null,
+      "amount_out": "66931.00",
+      "matches_doc": null,
+      "outcome": "unrelated"
+    }
+  ],
+  "unpaid_calls": [
+    "CC-0040"
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "doc_id": "DN-0036",
+  "doc_type": "distribution",
+  "layout": "dist_letter",
+  "fund_id": "FND-004",
+  "fund_name": "Atlantic Capital Fund I",
+  "investor_id": "INV-0032",
+  "investor_name": "South Patrickmouth Family Office",
+  "amount": "400000.00",
+  "currency": "CAD",
+  "distribution_type": "Return of capital",
+  "notice_date": "2026-06-22",
+  "payment_date": "2026-06-29"
+}

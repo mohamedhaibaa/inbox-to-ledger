@@ -1,0 +1,14 @@
+{
+  "doc_id": "DN-0018",
+  "doc_type": "distribution",
+  "layout": "dist_notice",
+  "fund_id": "FND-002",
+  "fund_name": "Harbour Capital Fund I",
+  "investor_id": "INV-0008",
+  "investor_name": "Lake Roberto Family Office",
+  "amount": "525000.00",
+  "currency": "CAD",
+  "distribution_type": "Income distribution",
+  "notice_date": "2026-08-09",
+  "payment_date": "2026-08-16"
+}

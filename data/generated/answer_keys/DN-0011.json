@@ -1,0 +1,14 @@
+{
+  "doc_id": "DN-0011",
+  "doc_type": "distribution",
+  "layout": "dist_notice",
+  "fund_id": "FND-005",
+  "fund_name": "Summit Ventures Fund IV",
+  "investor_id": "INV-0011",
+  "investor_name": "Cassandraton Pension Plan",
+  "amount": "455000.00",
+  "currency": "CAD",
+  "distribution_type": "Return of capital",
+  "notice_date": "2026-06-25",
+  "payment_date": "2026-07-02"
+}

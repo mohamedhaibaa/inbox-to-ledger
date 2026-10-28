@@ -1,0 +1,221 @@
+{
+  "doc_id": "BS-0009",
+  "doc_type": "bank_statement",
+  "fund_id": "FND-009",
+  "fund_name": "Bluewater Infrastructure Fund III",
+  "account_number": "70217-662275",
+  "period_start": "2026-01-01",
+  "period_end": "2026-12-31",
+  "lines": [
+    {
+      "line_no": 1,
+      "date": "2026-01-22",
+      "description": "WIRE OUT AIC DISTRIBUTION",
+      "amount_in": null,
+      "amount_out": "682500.00",
+      "matches_doc": "DN-0034",
+      "outcome": "distribution"
+    },
+    {
+      "line_no": 2,
+      "date": "2026-01-27",
+      "description": "MANAGEMENT FEE Q3",
+      "amount_in": null,
+      "amount_out": "26665.00",
+      "matches_doc": null,
+      "outcome": "unrelated"
+    },
+    {
+      "line_no": 3,
+      "date": "2026-02-07",
+      "description": "WIRE IN  HF CAP CALL 1",
+      "amount_in": "437500.00",
+      "amount_out": null,
+      "matches_doc": "CC-0007",
+      "outcome": "paid"
+    },
+    {
+      "line_no": 4,
+      "date": "2026-03-02",
+      "description": "WIRE IN  HF CAP CALL 2",
+      "amount_in": "437475.00",
+      "amount_out": null,
+      "matches_doc": "CC-0027",
+      "outcome": "paid_less_fee"
+    },
+    {
+      "line_no": 5,
+      "date": "2026-03-14",
+      "description": "WIRE OUT NNE DISTRIBUTION",
+      "amount_in": null,
+      "amount_out": "100000.00",
+      "matches_doc": "DN-0040",
+      "outcome": "distribution"
+    },
+    {
+      "line_no": 6,
+      "date": "2026-03-23",
+      "description": "WIRE OUT RFO DISTRIBUTION",
+      "amount_in": null,
+      "amount_out": "135000.00",
+      "matches_doc": "DN-0021",
+      "outcome": "distribution"
+    },
+    {
+      "line_no": 7,
+      "date": "2026-04-01",
+      "description": "WIRE IN  WMFO CAP CALL 1",
+      "amount_in": "495000.00",
+      "amount_out": null,
+      "matches_doc": "CC-0017",
+      "outcome": "partial"
+    },
+    {
+      "line_no": 8,
+      "date": "2026-04-14",
+      "description": "WIRE IN  LE CAP CALL 3",
+      "amount_in": "1424985.00",
+      "amount_out": null,
+      "matches_doc": "CC-0053",
+      "outcome": "paid_less_fee"
+    },
+    {
+      "line_no": 9,
+      "date": "2026-05-10",
+      "description": "WIRE OUT HF DISTRIBUTION",
+      "amount_in": null,
+      "amount_out": "1225000.00",
+      "matches_doc": "DN-0033",
+      "outcome": "distribution"
+    },
+    {
+      "line_no": 10,
+      "date": "2026-05-17",
+      "description": "AUDIT FEES",
+      "amount_in": null,
+      "amount_out": "13169.00",
+      "matches_doc": null,
+      "outcome": "unrelated"
+    },
+    {
+      "line_no": 11,
+      "date": "2026-05-29",
+      "description": "WIRE IN  AIC CAP CALL 1",
+      "amount_in": "435750.00",
+      "amount_out": null,
+      "matches_doc": "CC-0009",
+      "outcome": "partial"
+    },
+    {
+      "line_no": 12,
+      "date": "2026-06-15",
+      "description": "WIRE IN  CPP CAP CALL 1",
+      "amount_in": "246375.00",
+      "amount_out": null,
+      "matches_doc": "CC-0018",
+      "outcome": "partial"
+    },
+    {
+      "line_no": 13,
+      "date": "2026-06-29",
+      "description": "WIRE IN  NNE CAP CALL 2",
+      "amount_in": "124975.00",
+      "amount_out": null,
+      "matches_doc": "CC-0019",
+      "outcome": "paid_less_fee"
+    },
+    {
+      "line_no": 14,
+      "date": "2026-07-06",
+      "description": "WIRE IN  NNE CAP CALL 1",
+      "amount_in": "499975.00",
+      "amount_out": null,
+      "matches_doc": "CC-0004",
+      "outcome": "paid_less_fee"
+    },
+    {
+      "line_no": 15,
+      "date": "2026-07-11",
+      "description": "WIRE OUT INVESTMENT JOHNSON, SAWYER AND ",
+      "amount_in": null,
+      "amount_out": "1296284.00",
+      "matches_doc": null,
+      "outcome": "unrelated"
+    },
+    {
+      "line_no": 16,
+      "date": "2026-07-21",
+      "description": "WIRE OUT AIC DISTRIBUTION",
+      "amount_in": null,
+      "amount_out": "630000.00",
+      "matches_doc": "DN-0019",
+      "outcome": "distribution"
+    },
+    {
+      "line_no": 17,
+      "date": "2026-07-28",
+      "description": "WIRE IN  NNE CAP CALL 3",
+      "amount_in": "125000.00",
+      "amount_out": null,
+      "matches_doc": "CC-0050",
+      "outcome": "paid"
+    },
+    {
+      "line_no": 18,
+      "date": "2026-07-30",
+      "description": "BANK INTEREST",
+      "amount_in": "100.00",
+      "amount_out": null,
+      "matches_doc": null,
+      "outcome": "unrelated"
+    },
+    {
+      "line_no": 19,
+      "date": "2026-08-21",
+      "description": "WIRE IN  RFO CAP CALL 1",
+      "amount_in": "675000.00",
+      "amount_out": null,
+      "matches_doc": "CC-0059",
+      "outcome": "paid"
+    },
+    {
+      "line_no": 20,
+      "date": "2026-09-06",
+      "description": "WIRE OUT INVESTMENT CASTILLO-COLLINS",
+      "amount_in": null,
+      "amount_out": "1700444.00",
+      "matches_doc": null,
+      "outcome": "unrelated"
+    },
+    {
+      "line_no": 21,
+      "date": "2026-10-11",
+      "description": "WIRE OUT INVESTMENT WALTERS LLC",
+      "amount_in": null,
+      "amount_out": "2177896.00",
+      "matches_doc": null,
+      "outcome": "unrelated"
+    },
+    {
+      "line_no": 22,
+      "date": "2026-10-13",
+      "description": "WIRE IN  HF CAP CALL 3",
+      "amount_in": "630000.00",
+      "amount_out": null,
+      "matches_doc": "CC-0029",
+      "outcome": "partial"
+    },
+    {
+      "line_no": 23,
+      "date": "2026-10-23",
+      "description": "WIRE IN  LE CAP CALL 2",
+      "amount_in": "475000.00",
+      "amount_out": null,
+      "matches_doc": "CC-0042",
+      "outcome": "paid"
+    }
+  ],
+  "unpaid_calls": [
+    "CC-0001"
+  ]
+}

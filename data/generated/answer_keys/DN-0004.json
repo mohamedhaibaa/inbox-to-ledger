@@ -1,0 +1,14 @@
+{
+  "doc_id": "DN-0004",
+  "doc_type": "distribution",
+  "layout": "dist_letter",
+  "fund_id": "FND-001",
+  "fund_name": "Maple Growth Fund I",
+  "investor_id": "INV-0007",
+  "investor_name": "Lisatown Endowment",
+  "amount": "262500.00",
+  "currency": "CAD",
+  "distribution_type": "Return of capital",
+  "notice_date": "2026-10-26",
+  "payment_date": "2026-11-02"
+}

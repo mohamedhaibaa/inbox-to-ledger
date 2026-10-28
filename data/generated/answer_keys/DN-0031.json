@@ -1,0 +1,14 @@
+{
+  "doc_id": "DN-0031",
+  "doc_type": "distribution",
+  "layout": "dist_notice",
+  "fund_id": "FND-007",
+  "fund_name": "Granite Infrastructure Fund II",
+  "investor_id": "INV-0006",
+  "investor_name": "Robinsonshire Pension Plan",
+  "amount": "910000.00",
+  "currency": "CAD",
+  "distribution_type": "Income distribution",
+  "notice_date": "2026-05-14",
+  "payment_date": "2026-05-21"
+}
