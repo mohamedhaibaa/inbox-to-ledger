@@ -1,0 +1,16 @@
+{
+  "doc_id": "CC-0005",
+  "doc_type": "capital_call",
+  "layout": "layout_c",
+  "fund_id": "FND-007",
+  "fund_name": "Granite Infrastructure Fund II",
+  "investor_id": "INV-0006",
+  "investor_name": "Robinsonshire Pension Plan",
+  "investor_name_shown": "Robinsonshire Pension Plan",
+  "call_number": 1,
+  "amount": "1400000.00",
+  "currency": "CAD",
+  "notice_date": "2026-02-19",
+  "due_date": "2026-03-05",
+  "reference": "RPP CAP CALL 1"
+}

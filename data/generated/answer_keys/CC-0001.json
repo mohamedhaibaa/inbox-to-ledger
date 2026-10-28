@@ -1,0 +1,16 @@
+{
+  "doc_id": "CC-0001",
+  "doc_type": "capital_call",
+  "layout": "layout_c",
+  "fund_id": "FND-009",
+  "fund_name": "Bluewater Infrastructure Fund III",
+  "investor_id": "INV-0007",
+  "investor_name": "Lisatown Endowment",
+  "investor_name_shown": "Lisatown Endowment",
+  "call_number": 1,
+  "amount": "475000.00",
+  "currency": "CAD",
+  "notice_date": "2026-05-21",
+  "due_date": "2026-06-04",
+  "reference": "LE CAP CALL 1"
+}

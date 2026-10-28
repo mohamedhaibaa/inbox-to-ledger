@@ -1,0 +1,16 @@
+{
+  "doc_id": "CC-0002",
+  "doc_type": "capital_call",
+  "layout": "layout_c",
+  "fund_id": "FND-007",
+  "fund_name": "Granite Infrastructure Fund II",
+  "investor_id": "INV-0038",
+  "investor_name": "Port Colleenhaven Family Office",
+  "investor_name_shown": "Port Colleenhaven Family Office",
+  "call_number": 1,
+  "amount": "437500.00",
+  "currency": "CAD",
+  "notice_date": "2026-08-05",
+  "due_date": "2026-08-19",
+  "reference": "PCFO CAP CALL 1"
+}

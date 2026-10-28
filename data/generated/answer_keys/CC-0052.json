@@ -1,0 +1,16 @@
+{
+  "doc_id": "CC-0052",
+  "doc_type": "capital_call",
+  "layout": "layout_a",
+  "fund_id": "FND-002",
+  "fund_name": "Harbour Capital Fund I",
+  "investor_id": "INV-0005",
+  "investor_name": "Lake Debra Pension Plan",
+  "investor_name_shown": "Lake Debra Pension Plan",
+  "call_number": 3,
+  "amount": "412500.00",
+  "currency": "CAD",
+  "notice_date": "2026-06-29",
+  "due_date": "2026-07-13",
+  "reference": "LDPP CAP CALL 3"
+}

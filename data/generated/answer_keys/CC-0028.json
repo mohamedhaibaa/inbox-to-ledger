@@ -1,0 +1,16 @@
+{
+  "doc_id": "CC-0028",
+  "doc_type": "capital_call",
+  "layout": "layout_a",
+  "fund_id": "FND-007",
+  "fund_name": "Granite Infrastructure Fund II",
+  "investor_id": "INV-0003",
+  "investor_name": "New Roberttown Insurance Co.",
+  "investor_name_shown": "New Roberttown Insurance Co.",
+  "call_number": 1,
+  "amount": "337500.00",
+  "currency": "CAD",
+  "notice_date": "2026-02-01",
+  "due_date": "2026-02-15",
+  "reference": "NRIC CAP CALL 1"
+}

@@ -1,0 +1,16 @@
+{
+  "doc_id": "CC-0012",
+  "doc_type": "capital_call",
+  "layout": "layout_a",
+  "fund_id": "FND-010",
+  "fund_name": "Ironwood Growth Fund IV",
+  "investor_id": "INV-0040",
+  "investor_name": "New Stephanie Endowment",
+  "investor_name_shown": "New Stephanie Endowment",
+  "call_number": 1,
+  "amount": "1425000.00",
+  "currency": "CAD",
+  "notice_date": "2026-04-19",
+  "due_date": "2026-05-03",
+  "reference": "NSE CAP CALL 1"
+}

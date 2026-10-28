@@ -1,0 +1,16 @@
+{
+  "doc_id": "CC-0038",
+  "doc_type": "capital_call",
+  "layout": "layout_a",
+  "fund_id": "FND-002",
+  "fund_name": "Harbour Capital Fund I",
+  "investor_id": "INV-0027",
+  "investor_name": "West Donald Foundation",
+  "investor_name_shown": "West Donald",
+  "call_number": 1,
+  "amount": "250000.00",
+  "currency": "CAD",
+  "notice_date": "2026-06-03",
+  "due_date": "2026-06-17",
+  "reference": "WDF CAP CALL 1"
+}

@@ -1,0 +1,16 @@
+{
+  "doc_id": "CC-0021",
+  "doc_type": "capital_call",
+  "layout": "layout_b",
+  "fund_id": "FND-007",
+  "fund_name": "Granite Infrastructure Fund II",
+  "investor_id": "INV-0037",
+  "investor_name": "Teresaburgh Foundation",
+  "investor_name_shown": "Teresaburgh Foundation",
+  "call_number": 1,
+  "amount": "825000.00",
+  "currency": "CAD",
+  "notice_date": "2026-03-07",
+  "due_date": "2026-03-21",
+  "reference": "TF CAP CALL 1"
+}

@@ -1,0 +1,16 @@
+{
+  "doc_id": "CC-0047",
+  "doc_type": "capital_call",
+  "layout": "layout_b",
+  "fund_id": "FND-008",
+  "fund_name": "Lakeshore Growth Fund IV",
+  "investor_id": "INV-0025",
+  "investor_name": "Jasonfort Endowment",
+  "investor_name_shown": "Jasonfort Endowment",
+  "call_number": 1,
+  "amount": "500000.00",
+  "currency": "CAD",
+  "notice_date": "2026-07-03",
+  "due_date": "2026-07-17",
+  "reference": "JE CAP CALL 1"
+}

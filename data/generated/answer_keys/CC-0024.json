@@ -1,0 +1,16 @@
+{
+  "doc_id": "CC-0024",
+  "doc_type": "capital_call",
+  "layout": "layout_a",
+  "fund_id": "FND-008",
+  "fund_name": "Lakeshore Growth Fund IV",
+  "investor_id": "INV-0001",
+  "investor_name": "North Judithbury Insurance Co.",
+  "investor_name_shown": "North Judithbury Insurance Co.",
+  "call_number": 1,
+  "amount": "325000.00",
+  "currency": "CAD",
+  "notice_date": "2026-04-23",
+  "due_date": "2026-05-07",
+  "reference": "NJIC CAP CALL 1"
+}

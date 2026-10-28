@@ -1,0 +1,16 @@
+{
+  "doc_id": "CC-0039",
+  "doc_type": "capital_call",
+  "layout": "layout_b",
+  "fund_id": "FND-003",
+  "fund_name": "Northern Credit Fund I",
+  "investor_id": "INV-0031",
+  "investor_name": "East Courtneychester Endowment",
+  "investor_name_shown": "East Courtneychester Endowment",
+  "call_number": 2,
+  "amount": "187500.00",
+  "currency": "CAD",
+  "notice_date": "2026-02-07",
+  "due_date": "2026-02-21",
+  "reference": "ECE CAP CALL 2"
+}

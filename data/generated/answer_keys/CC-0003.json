@@ -1,0 +1,16 @@
+{
+  "doc_id": "CC-0003",
+  "doc_type": "capital_call",
+  "layout": "layout_a",
+  "fund_id": "FND-003",
+  "fund_name": "Northern Credit Fund I",
+  "investor_id": "INV-0002",
+  "investor_name": "East Jill Family Office",
+  "investor_name_shown": "East Jill Family Office",
+  "call_number": 1,
+  "amount": "975000.00",
+  "currency": "CAD",
+  "notice_date": "2026-10-07",
+  "due_date": "2026-10-21",
+  "reference": "EJFO CAP CALL 1"
+}

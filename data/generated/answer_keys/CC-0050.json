@@ -1,0 +1,16 @@
+{
+  "doc_id": "CC-0050",
+  "doc_type": "capital_call",
+  "layout": "layout_b",
+  "fund_id": "FND-009",
+  "fund_name": "Bluewater Infrastructure Fund III",
+  "investor_id": "INV-0010",
+  "investor_name": "North Noahstad Endowment",
+  "investor_name_shown": "North Noahstad Endowment",
+  "call_number": 3,
+  "amount": "125000.00",
+  "currency": "CAD",
+  "notice_date": "2026-07-15",
+  "due_date": "2026-07-29",
+  "reference": "NNE CAP CALL 3"
+}

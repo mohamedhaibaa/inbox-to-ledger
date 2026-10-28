@@ -1,0 +1,16 @@
+{
+  "doc_id": "CC-0016",
+  "doc_type": "capital_call",
+  "layout": "layout_a",
+  "fund_id": "FND-008",
+  "fund_name": "Lakeshore Growth Fund IV",
+  "investor_id": "INV-0015",
+  "investor_name": "Port Keith Family Office",
+  "investor_name_shown": "Port Keith Family Office",
+  "call_number": 1,
+  "amount": "487500.00",
+  "currency": "CAD",
+  "notice_date": "2026-02-28",
+  "due_date": "2026-03-14",
+  "reference": "PKFO CAP CALL 1"
+}

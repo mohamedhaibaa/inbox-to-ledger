@@ -1,0 +1,16 @@
+{
+  "doc_id": "CC-0007",
+  "doc_type": "capital_call",
+  "layout": "layout_a",
+  "fund_id": "FND-009",
+  "fund_name": "Bluewater Infrastructure Fund III",
+  "investor_id": "INV-0012",
+  "investor_name": "Herrerafurt Foundation",
+  "investor_name_shown": "Herrerafurt Foundation",
+  "call_number": 1,
+  "amount": "437500.00",
+  "currency": "CAD",
+  "notice_date": "2026-01-24",
+  "due_date": "2026-02-07",
+  "reference": "HF CAP CALL 1"
+}

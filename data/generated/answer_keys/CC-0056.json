@@ -1,0 +1,16 @@
+{
+  "doc_id": "CC-0056",
+  "doc_type": "capital_call",
+  "layout": "layout_c",
+  "fund_id": "FND-001",
+  "fund_name": "Maple Growth Fund I",
+  "investor_id": "INV-0029",
+  "investor_name": "Coxberg Family Office",
+  "investor_name_shown": "Coxberg Family Office",
+  "call_number": 1,
+  "amount": "125000.00",
+  "currency": "CAD",
+  "notice_date": "2026-06-19",
+  "due_date": "2026-07-03",
+  "reference": "CFO CAP CALL 1"
+}

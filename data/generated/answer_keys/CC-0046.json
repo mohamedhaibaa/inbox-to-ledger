@@ -1,0 +1,16 @@
+{
+  "doc_id": "CC-0046",
+  "doc_type": "capital_call",
+  "layout": "layout_b",
+  "fund_id": "FND-004",
+  "fund_name": "Atlantic Capital Fund I",
+  "investor_id": "INV-0002",
+  "investor_name": "East Jill Family Office",
+  "investor_name_shown": "East Jill Family Office",
+  "call_number": 1,
+  "amount": "1425000.00",
+  "currency": "CAD",
+  "notice_date": "2026-10-26",
+  "due_date": "2026-11-09",
+  "reference": "EJFO CAP CALL 1"
+}

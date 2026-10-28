@@ -1,0 +1,16 @@
+{
+  "doc_id": "CC-0048",
+  "doc_type": "capital_call",
+  "layout": "layout_b",
+  "fund_id": "FND-005",
+  "fund_name": "Summit Ventures Fund IV",
+  "investor_id": "INV-0039",
+  "investor_name": "East Nathaniel Pension Plan",
+  "investor_name_shown": "East Nathaniel",
+  "call_number": 1,
+  "amount": "850000.00",
+  "currency": "CAD",
+  "notice_date": "2026-03-21",
+  "due_date": "2026-04-04",
+  "reference": "ENPP CAP CALL 1"
+}

@@ -1,0 +1,16 @@
+{
+  "doc_id": "CC-0057",
+  "doc_type": "capital_call",
+  "layout": "layout_a",
+  "fund_id": "FND-008",
+  "fund_name": "Lakeshore Growth Fund IV",
+  "investor_id": "INV-0018",
+  "investor_name": "West Michael Family Office",
+  "investor_name_shown": "West Michael Family Office",
+  "call_number": 1,
+  "amount": "712500.00",
+  "currency": "CAD",
+  "notice_date": "2026-07-29",
+  "due_date": "2026-08-12",
+  "reference": "WMFO CAP CALL 1"
+}

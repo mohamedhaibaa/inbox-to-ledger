@@ -1,0 +1,16 @@
+{
+  "doc_id": "CC-0017",
+  "doc_type": "capital_call",
+  "layout": "layout_c",
+  "fund_id": "FND-009",
+  "fund_name": "Bluewater Infrastructure Fund III",
+  "investor_id": "INV-0018",
+  "investor_name": "West Michael Family Office",
+  "investor_name_shown": "West Michael",
+  "call_number": 1,
+  "amount": "550000.00",
+  "currency": "CAD",
+  "notice_date": "2026-03-22",
+  "due_date": "2026-04-05",
+  "reference": "WMFO CAP CALL 1"
+}

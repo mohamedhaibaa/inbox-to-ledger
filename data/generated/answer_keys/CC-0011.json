@@ -1,0 +1,16 @@
+{
+  "doc_id": "CC-0011",
+  "doc_type": "capital_call",
+  "layout": "layout_a",
+  "fund_id": "FND-010",
+  "fund_name": "Ironwood Growth Fund IV",
+  "investor_id": "INV-0021",
+  "investor_name": "South Noah Pension Plan",
+  "investor_name_shown": "South Noah Pension Plan",
+  "call_number": 1,
+  "amount": "225000.00",
+  "currency": "CAD",
+  "notice_date": "2026-04-28",
+  "due_date": "2026-05-12",
+  "reference": "SNPP CAP CALL 1"
+}

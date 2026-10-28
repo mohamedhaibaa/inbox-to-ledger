@@ -1,0 +1,16 @@
+{
+  "doc_id": "CC-0041",
+  "doc_type": "capital_call",
+  "layout": "layout_b",
+  "fund_id": "FND-001",
+  "fund_name": "Maple Growth Fund I",
+  "investor_id": "INV-0037",
+  "investor_name": "Teresaburgh Foundation",
+  "investor_name_shown": "Teresaburgh Foundation",
+  "call_number": 2,
+  "amount": "250000.00",
+  "currency": "CAD",
+  "notice_date": "2026-10-11",
+  "due_date": "2026-10-25",
+  "reference": "TF CAP CALL 2"
+}

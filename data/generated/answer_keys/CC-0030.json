@@ -1,0 +1,16 @@
+{
+  "doc_id": "CC-0030",
+  "doc_type": "capital_call",
+  "layout": "layout_a",
+  "fund_id": "FND-008",
+  "fund_name": "Lakeshore Growth Fund IV",
+  "investor_id": "INV-0014",
+  "investor_name": "Lake Chad Foundation",
+  "investor_name_shown": "Lake Chad Foundation",
+  "call_number": 2,
+  "amount": "150000.00",
+  "currency": "CAD",
+  "notice_date": "2026-08-15",
+  "due_date": "2026-08-29",
+  "reference": "LCF CAP CALL 2"
+}

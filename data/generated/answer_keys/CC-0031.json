@@ -1,0 +1,16 @@
+{
+  "doc_id": "CC-0031",
+  "doc_type": "capital_call",
+  "layout": "layout_a",
+  "fund_id": "FND-010",
+  "fund_name": "Ironwood Growth Fund IV",
+  "investor_id": "INV-0014",
+  "investor_name": "Lake Chad Foundation",
+  "investor_name_shown": "Lake Chad Foundation",
+  "call_number": 2,
+  "amount": "950000.00",
+  "currency": "CAD",
+  "notice_date": "2026-07-28",
+  "due_date": "2026-08-11",
+  "reference": "LCF CAP CALL 2"
+}

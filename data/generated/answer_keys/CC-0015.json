@@ -1,0 +1,16 @@
+{
+  "doc_id": "CC-0015",
+  "doc_type": "capital_call",
+  "layout": "layout_c",
+  "fund_id": "FND-005",
+  "fund_name": "Summit Ventures Fund IV",
+  "investor_id": "INV-0009",
+  "investor_name": "Ericmouth Pension Plan",
+  "investor_name_shown": "Ericmouth Pension Plan",
+  "call_number": 1,
+  "amount": "900000.00",
+  "currency": "CAD",
+  "notice_date": "2026-08-05",
+  "due_date": "2026-08-19",
+  "reference": "EPP CAP CALL 1"
+}

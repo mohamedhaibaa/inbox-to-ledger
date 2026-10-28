@@ -1,0 +1,16 @@
+{
+  "doc_id": "CC-0054",
+  "doc_type": "capital_call",
+  "layout": "layout_b",
+  "fund_id": "FND-010",
+  "fund_name": "Ironwood Growth Fund IV",
+  "investor_id": "INV-0020",
+  "investor_name": "New Jessica Family Office",
+  "investor_name_shown": "New Jessica",
+  "call_number": 1,
+  "amount": "1950000.00",
+  "currency": "CAD",
+  "notice_date": "2026-09-19",
+  "due_date": "2026-10-03",
+  "reference": "NJFO CAP CALL 1"
+}

@@ -1,0 +1,16 @@
+{
+  "doc_id": "CC-0033",
+  "doc_type": "capital_call",
+  "layout": "layout_c",
+  "fund_id": "FND-002",
+  "fund_name": "Harbour Capital Fund I",
+  "investor_id": "INV-0029",
+  "investor_name": "Coxberg Family Office",
+  "investor_name_shown": "Coxberg Family Office",
+  "call_number": 1,
+  "amount": "1250000.00",
+  "currency": "CAD",
+  "notice_date": "2026-03-21",
+  "due_date": "2026-04-04",
+  "reference": "CFO CAP CALL 1"
+}

@@ -1,0 +1,16 @@
+{
+  "doc_id": "CC-0055",
+  "doc_type": "capital_call",
+  "layout": "layout_b",
+  "fund_id": "FND-010",
+  "fund_name": "Ironwood Growth Fund IV",
+  "investor_id": "INV-0003",
+  "investor_name": "New Roberttown Insurance Co.",
+  "investor_name_shown": "New Roberttown Insurance Co.",
+  "call_number": 1,
+  "amount": "1450000.00",
+  "currency": "CAD",
+  "notice_date": "2026-01-01",
+  "due_date": "2026-01-15",
+  "reference": "NRIC CAP CALL 1"
+}
