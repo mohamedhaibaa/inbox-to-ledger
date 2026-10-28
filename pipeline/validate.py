@@ -26,6 +26,7 @@ class MasterData:
 
     def __init__(self, funds: list[dict], investors: list[dict], commitments: list[dict]):
         self.funds = {f["fund_name"].lower(): f["fund_id"] for f in funds}
+        self.accounts = {f["account_number"]: f["fund_id"] for f in funds if f.get("account_number")}
         self.investor_names = {}
         self.legal_names = {inv["investor_id"]: inv["legal_name"] for inv in investors}
         for inv in investors:

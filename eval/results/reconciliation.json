@@ -1,0 +1,35 @@
+{
+  "items": 100,
+  "status_correct": 100,
+  "unmatched_lines": 0,
+  "capital_called": "41300000.00",
+  "received": "37758105.00",
+  "confusion": [
+    {
+      "true": "late",
+      "ours": "late",
+      "count": 4
+    },
+    {
+      "true": "paid",
+      "ours": "paid",
+      "count": 63
+    },
+    {
+      "true": "paid_less_fee",
+      "ours": "paid_less_fee",
+      "count": 19
+    },
+    {
+      "true": "partial",
+      "ours": "partial",
+      "count": 9
+    },
+    {
+      "true": "unpaid",
+      "ours": "unpaid",
+      "count": 5
+    }
+  ],
+  "breaks": 18
+}
