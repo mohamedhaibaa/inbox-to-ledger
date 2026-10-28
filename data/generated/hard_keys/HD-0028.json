@@ -1,0 +1,17 @@
+{
+  "doc_id": "HD-0028",
+  "doc_type": "capital_call",
+  "challenge": "odd_dates",
+  "layout": "layout_e",
+  "expect": "extract",
+  "fund_id": "FND-006",
+  "fund_name": "Cedar Infrastructure Fund I",
+  "investor_id": "INV-0012",
+  "investor_name": "Herrerafurt Foundation",
+  "call_number": 3,
+  "amount": "550000.00",
+  "currency": "CAD",
+  "notice_date": "2026-08-28",
+  "due_date": "2026-09-11",
+  "reference": "HF CAP CALL 3"
+}

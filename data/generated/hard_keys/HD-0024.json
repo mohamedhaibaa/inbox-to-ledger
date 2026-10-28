@@ -1,0 +1,17 @@
+{
+  "doc_id": "HD-0024",
+  "doc_type": "capital_call",
+  "challenge": "odd_dates",
+  "layout": "layout_d",
+  "expect": "extract",
+  "fund_id": "FND-007",
+  "fund_name": "Granite Infrastructure Fund II",
+  "investor_id": "INV-0029",
+  "investor_name": "Coxberg Family Office",
+  "call_number": 2,
+  "amount": "950000.00",
+  "currency": "CAD",
+  "notice_date": "2026-06-22",
+  "due_date": "2026-07-06",
+  "reference": "CFO CAP CALL 2"
+}

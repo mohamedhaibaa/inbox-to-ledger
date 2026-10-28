@@ -1,0 +1,17 @@
+{
+  "doc_id": "HD-0038",
+  "doc_type": "capital_call",
+  "challenge": "odd_dates",
+  "layout": "layout_e",
+  "expect": "extract",
+  "fund_id": "FND-006",
+  "fund_name": "Cedar Infrastructure Fund I",
+  "investor_id": "INV-0001",
+  "investor_name": "North Judithbury Insurance Co.",
+  "call_number": 3,
+  "amount": "362500.00",
+  "currency": "CAD",
+  "notice_date": "2026-10-26",
+  "due_date": "2026-11-09",
+  "reference": "NJIC CAP CALL 3"
+}

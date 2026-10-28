@@ -1,0 +1,18 @@
+{
+  "doc_id": "HD-0040",
+  "doc_type": "capital_call",
+  "challenge": "duplicate",
+  "layout": "layout_d",
+  "expect": "flag",
+  "fund_id": "FND-002",
+  "fund_name": "Harbour Capital Fund I",
+  "investor_id": "INV-0029",
+  "investor_name": "Coxberg Family Office",
+  "call_number": 2,
+  "amount": "937500.00",
+  "currency": "CAD",
+  "notice_date": "2026-10-01",
+  "due_date": "2026-10-15",
+  "reference": "CFO CAP CALL 2",
+  "duplicate_of": "HD-0002"
+}

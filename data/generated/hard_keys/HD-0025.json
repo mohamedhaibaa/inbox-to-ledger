@@ -1,0 +1,17 @@
+{
+  "doc_id": "HD-0025",
+  "doc_type": "capital_call",
+  "challenge": "ocr_noise",
+  "layout": "layout_e",
+  "expect": "extract",
+  "fund_id": "FND-009",
+  "fund_name": "Bluewater Infrastructure Fund III",
+  "investor_id": "INV-0024",
+  "investor_name": "Adamsborough Insurance Co.",
+  "call_number": 3,
+  "amount": "525000.00",
+  "currency": "CAD",
+  "notice_date": "2026-03-29",
+  "due_date": "2026-04-12",
+  "reference": "AIC CAP CALL 3"
+}

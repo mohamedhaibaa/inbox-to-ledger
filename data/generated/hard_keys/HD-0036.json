@@ -1,0 +1,17 @@
+{
+  "doc_id": "HD-0036",
+  "doc_type": "capital_call",
+  "challenge": "amount_in_words",
+  "layout": "layout_f",
+  "expect": "extract",
+  "fund_id": "FND-005",
+  "fund_name": "Summit Ventures Fund IV",
+  "investor_id": "INV-0011",
+  "investor_name": "Cassandraton Pension Plan",
+  "call_number": 1,
+  "amount": "325000.00",
+  "currency": "CAD",
+  "notice_date": "2026-08-24",
+  "due_date": "2026-09-07",
+  "reference": "CPP CAP CALL 1"
+}

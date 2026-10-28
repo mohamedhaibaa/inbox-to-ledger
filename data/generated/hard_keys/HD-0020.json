@@ -1,0 +1,17 @@
+{
+  "doc_id": "HD-0020",
+  "doc_type": "capital_call",
+  "challenge": "missing_due_date",
+  "layout": "layout_d",
+  "expect": "flag",
+  "fund_id": "FND-008",
+  "fund_name": "Lakeshore Growth Fund IV",
+  "investor_id": "INV-0014",
+  "investor_name": "Lake Chad Foundation",
+  "call_number": 4,
+  "amount": "450000.00",
+  "currency": "CAD",
+  "notice_date": "2026-08-13",
+  "due_date": null,
+  "reference": "LCF CAP CALL 4"
+}

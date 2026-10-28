@@ -1,0 +1,58 @@
+{
+  "model": "claude-haiku-5-5",
+  "documents": 40,
+  "outcomes": {
+    "correct": 40,
+    "flagged": 0,
+    "SILENT": 0
+  },
+  "low_confidence": 31,
+  "per_challenge": {
+    "ocr_noise": {
+      "correct": 5,
+      "flagged": 0,
+      "SILENT": 0
+    },
+    "prompt_injection": {
+      "correct": 4,
+      "flagged": 0,
+      "SILENT": 0
+    },
+    "unseen_layout": {
+      "correct": 12,
+      "flagged": 0,
+      "SILENT": 0
+    },
+    "scanned": {
+      "correct": 3,
+      "flagged": 0,
+      "SILENT": 0
+    },
+    "missing_due_date": {
+      "correct": 3,
+      "flagged": 0,
+      "SILENT": 0
+    },
+    "unknown_investor": {
+      "correct": 2,
+      "flagged": 0,
+      "SILENT": 0
+    },
+    "amount_in_words": {
+      "correct": 5,
+      "flagged": 0,
+      "SILENT": 0
+    },
+    "odd_dates": {
+      "correct": 4,
+      "flagged": 0,
+      "SILENT": 0
+    },
+    "duplicate": {
+      "correct": 2,
+      "flagged": 0,
+      "SILENT": 0
+    }
+  },
+  "problems": []
+}

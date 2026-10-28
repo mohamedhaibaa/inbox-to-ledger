@@ -1,0 +1,17 @@
+{
+  "doc_id": "HD-0014",
+  "doc_type": "capital_call",
+  "challenge": "unknown_investor",
+  "layout": "layout_e",
+  "expect": "flag",
+  "fund_id": "FND-008",
+  "fund_name": "Lakeshore Growth Fund IV",
+  "investor_id": "INV-0015",
+  "investor_name": "Northwind Capital Partners",
+  "call_number": 1,
+  "amount": "1462500.00",
+  "currency": "CAD",
+  "notice_date": "2026-04-06",
+  "due_date": "2026-04-20",
+  "reference": "PKFO CAP CALL 1"
+}

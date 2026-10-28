@@ -1,0 +1,17 @@
+{
+  "doc_id": "HD-0029",
+  "doc_type": "capital_call",
+  "challenge": "missing_due_date",
+  "layout": "layout_d",
+  "expect": "flag",
+  "fund_id": "FND-001",
+  "fund_name": "Maple Growth Fund I",
+  "investor_id": "INV-0012",
+  "investor_name": "Herrerafurt Foundation",
+  "call_number": 1,
+  "amount": "62500.00",
+  "currency": "CAD",
+  "notice_date": "2026-06-07",
+  "due_date": null,
+  "reference": "HF CAP CALL 1"
+}

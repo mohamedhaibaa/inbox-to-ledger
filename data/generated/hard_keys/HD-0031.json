@@ -1,0 +1,17 @@
+{
+  "doc_id": "HD-0031",
+  "doc_type": "capital_call",
+  "challenge": "unknown_investor",
+  "layout": "layout_e",
+  "expect": "flag",
+  "fund_id": "FND-005",
+  "fund_name": "Summit Ventures Fund IV",
+  "investor_id": "INV-0039",
+  "investor_name": "Bluepeak Holdings Ltd.",
+  "call_number": 3,
+  "amount": "425000.00",
+  "currency": "CAD",
+  "notice_date": "2026-02-21",
+  "due_date": "2026-03-07",
+  "reference": "ENPP CAP CALL 3"
+}

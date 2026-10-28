@@ -1,0 +1,17 @@
+{
+  "doc_id": "HD-0019",
+  "doc_type": "capital_call",
+  "challenge": "unseen_layout",
+  "layout": "layout_d",
+  "expect": "extract",
+  "fund_id": "FND-004",
+  "fund_name": "Atlantic Capital Fund I",
+  "investor_id": "INV-0013",
+  "investor_name": "New Kellystad Family Office",
+  "call_number": 3,
+  "amount": "237500.00",
+  "currency": "CAD",
+  "notice_date": "2026-06-10",
+  "due_date": "2026-06-24",
+  "reference": "NKFO CAP CALL 3"
+}

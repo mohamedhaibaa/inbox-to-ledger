@@ -1,0 +1,17 @@
+{
+  "doc_id": "HD-0026",
+  "doc_type": "capital_call",
+  "challenge": "amount_in_words",
+  "layout": "layout_f",
+  "expect": "extract",
+  "fund_id": "FND-010",
+  "fund_name": "Ironwood Growth Fund IV",
+  "investor_id": "INV-0028",
+  "investor_name": "Juliechester Foundation",
+  "call_number": 2,
+  "amount": "350000.00",
+  "currency": "CAD",
+  "notice_date": "2026-06-26",
+  "due_date": "2026-07-10",
+  "reference": "JF CAP CALL 2"
+}

@@ -1,0 +1,17 @@
+{
+  "doc_id": "HD-0017",
+  "doc_type": "capital_call",
+  "challenge": "ocr_noise",
+  "layout": "layout_e",
+  "expect": "extract",
+  "fund_id": "FND-004",
+  "fund_name": "Atlantic Capital Fund I",
+  "investor_id": "INV-0025",
+  "investor_name": "Jasonfort Endowment",
+  "call_number": 1,
+  "amount": "1000000.00",
+  "currency": "CAD",
+  "notice_date": "2026-01-20",
+  "due_date": "2026-02-03",
+  "reference": "JE CAP CALL 1"
+}

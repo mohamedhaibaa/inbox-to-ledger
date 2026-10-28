@@ -1,0 +1,17 @@
+{
+  "doc_id": "HD-0035",
+  "doc_type": "capital_call",
+  "challenge": "unseen_layout",
+  "layout": "layout_e",
+  "expect": "extract",
+  "fund_id": "FND-007",
+  "fund_name": "Granite Infrastructure Fund II",
+  "investor_id": "INV-0031",
+  "investor_name": "East Courtneychester Endowment",
+  "call_number": 4,
+  "amount": "525000.00",
+  "currency": "CAD",
+  "notice_date": "2026-09-03",
+  "due_date": "2026-09-17",
+  "reference": "ECE CAP CALL 4"
+}

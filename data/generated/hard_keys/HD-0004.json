@@ -1,0 +1,17 @@
+{
+  "doc_id": "HD-0004",
+  "doc_type": "capital_call",
+  "challenge": "scanned",
+  "layout": "layout_d",
+  "expect": "flag",
+  "fund_id": "FND-006",
+  "fund_name": "Cedar Infrastructure Fund I",
+  "investor_id": "INV-0008",
+  "investor_name": "Lake Roberto Family Office",
+  "call_number": 2,
+  "amount": "775000.00",
+  "currency": "CAD",
+  "notice_date": "2026-08-15",
+  "due_date": "2026-08-29",
+  "reference": "LRFO CAP CALL 2"
+}

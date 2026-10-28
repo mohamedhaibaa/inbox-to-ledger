@@ -1,0 +1,17 @@
+{
+  "doc_id": "HD-0001",
+  "doc_type": "capital_call",
+  "challenge": "ocr_noise",
+  "layout": "layout_d",
+  "expect": "extract",
+  "fund_id": "FND-007",
+  "fund_name": "Granite Infrastructure Fund II",
+  "investor_id": "INV-0028",
+  "investor_name": "Juliechester Foundation",
+  "call_number": 1,
+  "amount": "1125000.00",
+  "currency": "CAD",
+  "notice_date": "2026-10-13",
+  "due_date": "2026-10-27",
+  "reference": "JF CAP CALL 1"
+}

@@ -1,0 +1,17 @@
+{
+  "doc_id": "HD-0008",
+  "doc_type": "capital_call",
+  "challenge": "unseen_layout",
+  "layout": "layout_d",
+  "expect": "extract",
+  "fund_id": "FND-002",
+  "fund_name": "Harbour Capital Fund I",
+  "investor_id": "INV-0022",
+  "investor_name": "Lake Mark Insurance Co.",
+  "call_number": 2,
+  "amount": "350000.00",
+  "currency": "CAD",
+  "notice_date": "2026-04-13",
+  "due_date": "2026-04-27",
+  "reference": "LMIC CAP CALL 2"
+}

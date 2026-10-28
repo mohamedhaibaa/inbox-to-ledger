@@ -1,0 +1,17 @@
+{
+  "doc_id": "HD-0037",
+  "doc_type": "capital_call",
+  "challenge": "odd_dates",
+  "layout": "layout_e",
+  "expect": "extract",
+  "fund_id": "FND-007",
+  "fund_name": "Granite Infrastructure Fund II",
+  "investor_id": "INV-0036",
+  "investor_name": "South Aaron Family Office",
+  "call_number": 1,
+  "amount": "175000.00",
+  "currency": "CAD",
+  "notice_date": "2026-06-18",
+  "due_date": "2026-07-02",
+  "reference": "SAFO CAP CALL 1"
+}

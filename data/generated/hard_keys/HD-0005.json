@@ -1,0 +1,17 @@
+{
+  "doc_id": "HD-0005",
+  "doc_type": "capital_call",
+  "challenge": "unseen_layout",
+  "layout": "layout_d",
+  "expect": "extract",
+  "fund_id": "FND-007",
+  "fund_name": "Granite Infrastructure Fund II",
+  "investor_id": "INV-0035",
+  "investor_name": "Danielchester Pension Plan",
+  "call_number": 2,
+  "amount": "437500.00",
+  "currency": "CAD",
+  "notice_date": "2026-02-26",
+  "due_date": "2026-03-12",
+  "reference": "DPP CAP CALL 2"
+}

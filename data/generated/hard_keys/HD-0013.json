@@ -1,0 +1,17 @@
+{
+  "doc_id": "HD-0013",
+  "doc_type": "capital_call",
+  "challenge": "unseen_layout",
+  "layout": "layout_d",
+  "expect": "extract",
+  "fund_id": "FND-005",
+  "fund_name": "Summit Ventures Fund IV",
+  "investor_id": "INV-0008",
+  "investor_name": "Lake Roberto Family Office",
+  "call_number": 2,
+  "amount": "1237500.00",
+  "currency": "CAD",
+  "notice_date": "2026-09-13",
+  "due_date": "2026-09-27",
+  "reference": "LRFO CAP CALL 2"
+}
