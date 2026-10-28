@@ -44,6 +44,7 @@ pytest==9.1.1
 python-dateutil==3.0.0
 python-dotenv==1.2.4
 PyYAML==6.0.3
+RapidFuzz==3.14.6
 regex==2026.9.29
 reportlab==5.1.0
 rich==15.0.0

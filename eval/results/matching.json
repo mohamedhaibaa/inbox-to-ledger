@@ -1,0 +1,166 @@
+{
+  "cases": 802,
+  "outcomes": {
+    "correct": 796,
+    "flagged": 6,
+    "SILENT": 0
+  },
+  "per_group": {
+    "real:noise": {
+      "correct": 59,
+      "flagged": 0,
+      "SILENT": 0
+    },
+    "real:named": {
+      "correct": 95,
+      "flagged": 0,
+      "SILENT": 0
+    },
+    "dev:truncated": {
+      "correct": 40,
+      "flagged": 0,
+      "SILENT": 0
+    },
+    "dev:typo": {
+      "correct": 37,
+      "flagged": 3,
+      "SILENT": 0
+    },
+    "dev:no_suffix": {
+      "correct": 40,
+      "flagged": 0,
+      "SILENT": 0
+    },
+    "dev:extra_words": {
+      "correct": 40,
+      "flagged": 0,
+      "SILENT": 0
+    },
+    "dev:dotted_code": {
+      "correct": 40,
+      "flagged": 0,
+      "SILENT": 0
+    },
+    "dev:lowercase": {
+      "correct": 40,
+      "flagged": 0,
+      "SILENT": 0
+    },
+    "dev:near_miss": {
+      "correct": 40,
+      "flagged": 0,
+      "SILENT": 0
+    },
+    "dev:not_in_fund": {
+      "correct": 40,
+      "flagged": 0,
+      "SILENT": 0
+    },
+    "dev:unknown": {
+      "correct": 4,
+      "flagged": 0,
+      "SILENT": 0
+    },
+    "test:truncated": {
+      "correct": 40,
+      "flagged": 0,
+      "SILENT": 0
+    },
+    "test:typo": {
+      "correct": 37,
+      "flagged": 3,
+      "SILENT": 0
+    },
+    "test:no_suffix": {
+      "correct": 40,
+      "flagged": 0,
+      "SILENT": 0
+    },
+    "test:extra_words": {
+      "correct": 40,
+      "flagged": 0,
+      "SILENT": 0
+    },
+    "test:dotted_code": {
+      "correct": 40,
+      "flagged": 0,
+      "SILENT": 0
+    },
+    "test:lowercase": {
+      "correct": 40,
+      "flagged": 0,
+      "SILENT": 0
+    },
+    "test:near_miss": {
+      "correct": 40,
+      "flagged": 0,
+      "SILENT": 0
+    },
+    "test:not_in_fund": {
+      "correct": 40,
+      "flagged": 0,
+      "SILENT": 0
+    },
+    "test:unknown": {
+      "correct": 4,
+      "flagged": 0,
+      "SILENT": 0
+    }
+  },
+  "problems": [
+    {
+      "group": "dev:typo",
+      "text": "Jaosnfort Endowment",
+      "fund_id": "FND-008",
+      "expected": "INV-0025",
+      "got": null,
+      "outcome": "flagged",
+      "detail": "none: no confident match (best was 'Jasonfort Endowment' at 89)"
+    },
+    {
+      "group": "dev:typo",
+      "text": "Coxbberg Family Office",
+      "fund_id": "FND-001",
+      "expected": "INV-0029",
+      "got": null,
+      "outcome": "flagged",
+      "detail": "none: no confident match (best was 'Coxberg Family Office' at 86)"
+    },
+    {
+      "group": "dev:typo",
+      "text": "Tashatoown Pension Plan",
+      "fund_id": "FND-001",
+      "expected": "INV-0033",
+      "got": null,
+      "outcome": "flagged",
+      "detail": "none: no confident match (best was 'Tashatown Pension Plan' at 89)"
+    },
+    {
+      "group": "test:typo",
+      "text": "Erricmouth Pension Plan",
+      "fund_id": "FND-005",
+      "expected": "INV-0009",
+      "got": null,
+      "outcome": "flagged",
+      "detail": "none: no confident match (best was 'Ericmouth Pension Plan' at 89)"
+    },
+    {
+      "group": "test:typo",
+      "text": "Jasonfoort Endowment",
+      "fund_id": "FND-003",
+      "expected": "INV-0025",
+      "got": null,
+      "outcome": "flagged",
+      "detail": "none: no confident match (best was 'Jasonfort Endowment' at 89)"
+    },
+    {
+      "group": "test:typo",
+      "text": "Coxbberg Family Office",
+      "fund_id": "FND-007",
+      "expected": "INV-0029",
+      "got": null,
+      "outcome": "flagged",
+      "detail": "none: no confident match (best was 'Coxberg Family Office' at 86)"
+    }
+  ]
+}

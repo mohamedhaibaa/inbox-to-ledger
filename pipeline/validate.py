@@ -27,6 +27,7 @@ class MasterData:
     def __init__(self, funds: list[dict], investors: list[dict], commitments: list[dict]):
         self.funds = {f["fund_name"].lower(): f["fund_id"] for f in funds}
         self.investor_names = {}
+        self.legal_names = {inv["investor_id"]: inv["legal_name"] for inv in investors}
         for inv in investors:
             names = [inv["legal_name"]] + inv["short_names"].split("|")
             for name in names:
@@ -45,7 +46,10 @@ class MasterData:
 
     def investor_ids(self, name: str) -> set[str]:
         return self.investor_names.get(name.strip().lower(), set())
-
+    
+    def investors_in(self, fund_id: str) -> set[str]:
+        """Investors with a commitment to this fund."""
+        return {inv for (fund, inv) in self.commitments if fund == fund_id}
 
 def validate(form: CapitalCall | Distribution, master: MasterData,
              recorded_calls: set[tuple] | None = None) -> ValidationResult:
