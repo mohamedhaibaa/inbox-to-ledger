@@ -221,3 +221,6 @@ __marimo__/
 
 models/
 .DS_Store
+
+data/review.db
+eval/results/replay.db
